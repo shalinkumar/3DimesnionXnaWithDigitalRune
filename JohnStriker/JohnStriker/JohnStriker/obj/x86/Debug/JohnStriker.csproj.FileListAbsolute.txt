@@ -1,0 +1,1393 @@
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\JohnStriker.exe
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\JohnStriker.pdb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Billboard.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Decals\GBuffer.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Decals\GBufferAlphaTest.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Decals\GBufferAlphaTestNormal.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Decals\GBufferNormal.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Decals\Material.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Decals\MaterialAlphaTest.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Decals\MaterialAlphaTestEmissive.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Decals\MaterialEmissive.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Deferred\AmbientLight.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Deferred\CascadedShadowMask.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Deferred\ClearGBuffer.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Deferred\CubeMapShadowMask.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Deferred\DirectionalLight.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Deferred\ImageBasedLight.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Deferred\PointLight.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Deferred\ProjectorLight.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Deferred\RebuildZBuffer.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Deferred\Spotlight.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Deferred\StandardShadowMask.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Deferred\Fog.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Line.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\Forward.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\ForwardEnv.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\ForwardMorphSkinned.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\ForwardTwoSided.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\GBuffer.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\GBufferAlphaTest.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\GBufferAlphaTestNormal.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\GBufferMorphNormalSkinned.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\GBufferMorphSkinned.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\GBufferNormal.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\GBufferNormalSkinned.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\GBufferNormalTransparent.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\GBufferSkinned.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\GBufferTransparent.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\Matcap.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\MatcapNormal.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\MatcapNormalSkinned.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\MatcapSkinned.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\Material.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\MaterialAlphaTest.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\MaterialAlphaTestEmissive.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\MaterialEmissive.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\MaterialEmissiveSkinned.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\MaterialMorphSkinned.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\MaterialSkinned.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\MaterialTransparent.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\Occluder.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\OccluderSkinned.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\ShadowMap.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\ShadowMapAlphaTest.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\ShadowMapAlphaTestSkinned.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\ShadowMapMorphSkinned.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\ShadowMapSkinned.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\OcclusionCulling.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\CieSkyFilter.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\ColorEncoder.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\EdgeFilter.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\SaoFilter.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\UpsampleFilter.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Sky\CloudLayer.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Sky\GradientSky.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Sky\GradientTextureSky.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Sky\ScatteringSky.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Sky\Skybox.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Sky\SkyObject.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Sky\Starfield.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\SpriteEffect.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Water\Ocean.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Water\Water.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\NormalsFittingTexture.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\BloomFilter.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\Blur.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\CameraMotionBlur.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\ColorCorrectionFilter.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\CopyFilter.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\DepthOfFieldFilter.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\DownsampleFilter.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\FxaaFilter.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\GodRayFilter.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\GrainFilter.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\HdrFilter.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\HorizontalBlur.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\KawaseBlur.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\LuminanceFilter.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\MadFilter.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\NormalMapDistortionFilter.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\ObjectMotionBlur.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\RadialBlur.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\SaturationFilter.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\SepiaFilter.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\SharpeningFilter.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\SimpleMotionBlur.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\SmaaAreaTexDX9.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\SmaaFilter.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\SmaaSearchTex.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\SsaoFilter.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\UnsharpMaskingFilter.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Bubble\Bubble.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\M16D\skyfighter fbx.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MetalGrateBox\MetalGrateBox.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\RustyCube\RustyCube.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Barrel\Barrel.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Barrel\Barrel_Colored.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\GlassBox\GlassBox.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LavaBall\LavaBall.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MagicSphere\MagicSphere.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\PalmTree\palm_tree.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Island\Island.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Car\Car.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Car\Wheel.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Sphere.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile\missile.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile1\missile.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MissileAGM-114HellFire\AGM-114HellFire.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile\missileOne.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\M16DMissile\skyfighter fbx.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\M16DMissileOne\skyfighter fbx.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\M16DMissileXNAModel\skyfighter fbx.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\ARC170\ARC170.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\ARC170SkyFighter\skyfighter fbx.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DesertArena_Art\DesertArena_Art.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\EnvironmentMapped\saucer.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\LightHouse.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\LightHouse1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightTower\LightTower.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Ship\Ship.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Ship\Ship_CollisionModel.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LavaBall\LavaBall_Collision.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\TVBox\TVBox.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Marine\Weapon\WeaponMachineGun.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\SpriteFont\ArialL.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\SpriteFont\SpriteFont1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Billboard\BillboardReference.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Water\Foam.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Water\wave0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Water\wave1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Reticle.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Sky\MilkyWay.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Sky2.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LavaBall\LavaCubeMap.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MagicSphere\ColorCube.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Grass.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Sky\Moon.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Beam.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\BeamBlurred.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\beeWingFlap.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\BulletHole.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Clouds.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Distortion.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Explosion.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Explosion2.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Fire.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Flames.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Flash.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\LensFlare.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\RainDrop.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Ribbon.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Smoke.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Spark.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Spray.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Star.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Water.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile\Air Missle diffuse.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Water\Underwater.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\FogSphere.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\VolumetricLight.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\Theme.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\Theme.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Explo1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Bubble\Glass_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Bubble\Glass_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Sky2_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\M16D\aircraft texture1_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\M16D\aircraft texture2_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\M16D\aircraft texture1_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\M16D\aircraft texture2_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MetalGrateBox\RustyMetal01_normal_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\RustyCube\RustyMetal01_normal_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\RustyCube\RustyMetal01_normal_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Barrel\diffus_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Barrel\diffus_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Barrel\diffus_2.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LavaBall\Lava_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LavaBall\Lava_diffuse_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LavaBall\Lava_normal_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LavaBall\Lava_specular_emissive_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MagicSphere\Material_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MagicSphere\Color_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\TVBox\EmissiveMaterial_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\PalmTree\Material_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\PalmTree\diffus_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\PalmTree\normal_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\PalmTree\specular_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Island\Sand_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Island\Granit_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Island\sand_diffuse_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Island\sand_normal_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Island\sand_specular_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Island\Granit_Rock_diffuse_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Island\Granit_Rock_normal_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Island\Granit_Rock_specular_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Car\RacerCar_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Car\RacerCar_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile\Missile_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile\Air Missle diffuse_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile\Air Missle diffuse_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile\Missile_specular_emissive_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile1\Missile_c_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile1\Missile_c_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile1\1ffgdfd3333333333333s201_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MissileAGM-114HellFire\1ffgd266666666666601_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile1\1ffgdfd3333333333333s201_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MissileAGM-114HellFire\1ffgd266666666666601_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile\Air Missle diffuse_2.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\M16DMissileXNAModel\aircraft texture1_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\M16DMissileXNAModel\aircraft texture2_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\ARC170\ARC170_TXT_VERSION_4_D_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\ARC170SkyFighter\ARC170_TXT_VERSION_4_D_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Coliseum_1_D_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Coliseum_4_D_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Coliseum_2_D_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_SkyCage_D_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\ThroneCover_D_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_DesertSandY_D_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Clock_FloorRug_D_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Coliseum_3_D_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Wroughtlron_D_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Chair_D_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_BighornStatic_D_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Wooden_D_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_GemCutter_D_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Chest_Uber_D_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_DesertSand_WavyY_D_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_DesertCliffs_2_D_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_DesertCliffs_1_D_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_DesertCliffs_3_D_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Hideout_Awnings_D_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Hideout_Forge_02_D_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Coliseum_1_D_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Coliseum_4_D_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Coliseum_2_D_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_SkyCage_D_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\ThroneCover_D_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_DesertSandY_D_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Clock_FloorRug_D_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Coliseum_3_D_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Wroughtlron_D_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Chair_D_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_BighornStatic_D_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Wooden_D_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_GemCutter_D_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Chest_Uber_D_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_DesertSand_WavyY_D_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_DesertCliffs_2_D_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_DesertCliffs_1_D_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_DesertCliffs_3_D_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Hideout_Awnings_D_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Hideout_Forge_02_D_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\EnvironmentMapped\Body_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\EnvironmentMapped\Cockpit_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\EnvironmentMapped\Engines_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\EnvironmentMapped\saucer_texture_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\EnvironmentMapped\Skybox_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\7b26aa4d_Defuse_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\ee22d6e4_Defuse_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\57c1696e_Defuse_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\f779c12a_Defuse_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\bbb4258c_Defuse_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\d1c3d725_Defuse_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\b98d8325_Defuse_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\d4afa143_Defuse_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\6e2fc158_Defuse_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\09dbc9a9_Defuse_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\00925fb3_Defuse_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\ce35a7f8_Defuse_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\1bda4806_Defuse_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\7b26aa4d_Defuse_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\ee22d6e4_Defuse_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\57c1696e_Defuse_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\f779c12a_Defuse_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\bbb4258c_Defuse_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\d1c3d725_Defuse_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\b98d8325_Defuse_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\d4afa143_Defuse_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\6e2fc158_Defuse_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\09dbc9a9_Defuse_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\00925fb3_Defuse_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\ce35a7f8_Defuse_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\1bda4806_Defuse_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Ship\ShipDiffuse_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Ship\ShipDiffuse_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\TVBox\Red_Parquet2_diffuse_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\TVBox\TestCard_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\TVBox\Red_Parquet2_diffuse_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\TVBox\TestCard_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Marine\Textures\WeaponMachineGunDiffuse_0.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Marine\Textures\WeaponMachineGunDiffuse_1.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\Default.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\Console.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\DejaVuSans.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\UITexture.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\Default.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\Console.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\UITexture.xnb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\Cursors\Arrow.cur
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\Cursors\Cross.cur
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\Cursors\IBeam.cur
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\Cursors\SizeAll.cur
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\Cursors\SizeNESW.cur
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\Cursors\SizeNS.cur
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\Cursors\SizeNWSE.cur
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\Cursors\SizeWE.cur
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\Cursors\Unavailable.cur
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\Cursors\Wait.ani
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\Cursors\Arrow.cur
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\Cursors\Cross.cur
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\Cursors\IBeam.cur
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\Cursors\SizeAll.cur
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\Cursors\SizeNESW.cur
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\Cursors\SizeNS.cur
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\Cursors\SizeNWSE.cur
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\Cursors\SizeWE.cur
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\Cursors\Unavailable.cur
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\Cursors\Wait.ani
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Sky\Stars.bin
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\JohnStriker.exe
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\JohnStriker.pdb
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Animation.dll
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.dll
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Game.dll
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Game.Input.dll
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Game.UI.dll
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Geometry.dll
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Graphics.dll
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Mathematics.dll
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Particles.dll
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Physics.dll
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Physics.Specialized.dll
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.ServiceLocation.dll
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.xml
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Animation.xml
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Game.xml
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Game.Input.xml
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Game.UI.xml
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Geometry.xml
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Graphics.xml
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Mathematics.xml
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Particles.xml
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Physics.xml
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Physics.Specialized.xml
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.ServiceLocation.xml
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\JohnStriker.csprojResolveAssemblyReference.cache
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.dll
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Bubble\Bubble.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\M16D\skyfighter fbx.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MetalGrateBox\MetalGrateBox.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\RustyCube\RustyCube.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Barrel\Barrel.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Barrel\Barrel_Colored.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\GlassBox\GlassBox.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LavaBall\LavaBall.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MagicSphere\MagicSphere.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\PalmTree\palm_tree.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Island\Island.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Car\Car.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Car\Wheel.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Sphere.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile\missile.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile1\missile.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MissileAGM-114HellFire\AGM-114HellFire.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile\missileOne.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\M16DMissile\skyfighter fbx.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\M16DMissileOne\skyfighter fbx.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\M16DMissileXNAModel\skyfighter fbx.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\ARC170\ARC170.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\ARC170SkyFighter\skyfighter fbx.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DesertArena_Art\DesertArena_Art.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\EnvironmentMapped\saucer.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\LightHouse.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\LightHouse1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightTower\LightTower.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Ship\Ship.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Ship\Ship_CollisionModel.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LavaBall\LavaBall_Collision.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\TVBox\TVBox.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Marine\Weapon\WeaponMachineGun.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\SpriteFont\ArialL.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\SpriteFont\SpriteFont1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\Default.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Neoforce\Console.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Neoforce\Default.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Billboard\BillboardReference.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Water\Foam.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Water\wave0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Water\wave1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Reticle.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Sky\MilkyWay.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Sky2.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LavaBall\LavaCubeMap.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MagicSphere\ColorCube.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Grass.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Sky\Moon.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Beam.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\BeamBlurred.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\beeWingFlap.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\BulletHole.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Clouds.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Distortion.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Explosion.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Explosion2.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Fire.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Flames.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Flash.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\LensFlare.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\RainDrop.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Ribbon.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Smoke.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Spark.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Spray.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Star.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Water.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile\Air Missle diffuse.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Water\Underwater.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\FogSphere.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\VolumetricLight.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\Theme.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\Theme.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\GameStatesSample\Theme.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Neoforce\ThemeRed.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Explo1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Bubble\Glass_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Bubble\Glass_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Sky2_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\M16D\aircraft texture1_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\M16D\aircraft texture2_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\M16D\aircraft texture1_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\M16D\aircraft texture2_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MetalGrateBox\RustyMetal01_normal_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\RustyCube\RustyMetal01_normal_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\RustyCube\RustyMetal01_normal_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Barrel\diffus_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Barrel\diffus_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Barrel\diffus_2.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LavaBall\Lava_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LavaBall\Lava_diffuse_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LavaBall\Lava_normal_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LavaBall\Lava_specular_emissive_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MagicSphere\Material_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MagicSphere\Color_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\TVBox\EmissiveMaterial_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\PalmTree\Material_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\PalmTree\diffus_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\PalmTree\normal_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\PalmTree\specular_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Island\Sand_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Island\Granit_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Island\sand_diffuse_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Island\sand_normal_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Island\sand_specular_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Island\Granit_Rock_diffuse_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Island\Granit_Rock_normal_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Island\Granit_Rock_specular_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Car\RacerCar_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Car\RacerCar_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile\Missile_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile\Air Missle diffuse_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile\Air Missle diffuse_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile\Missile_specular_emissive_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile1\Missile_c_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile1\Missile_c_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile1\1ffgdfd3333333333333s201_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MissileAGM-114HellFire\1ffgd266666666666601_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile1\1ffgdfd3333333333333s201_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MissileAGM-114HellFire\1ffgd266666666666601_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile\Air Missle diffuse_2.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\M16DMissileXNAModel\aircraft texture1_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\M16DMissileXNAModel\aircraft texture2_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\ARC170\ARC170_TXT_VERSION_4_D_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\ARC170SkyFighter\ARC170_TXT_VERSION_4_D_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Coliseum_1_D_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Coliseum_4_D_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Coliseum_2_D_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_SkyCage_D_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\ThroneCover_D_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_DesertSandY_D_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Clock_FloorRug_D_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Coliseum_3_D_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Wroughtlron_D_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Chair_D_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_BighornStatic_D_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Wooden_D_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_GemCutter_D_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Chest_Uber_D_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_DesertSand_WavyY_D_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_DesertCliffs_2_D_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_DesertCliffs_1_D_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_DesertCliffs_3_D_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Hideout_Awnings_D_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Hideout_Forge_02_D_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Coliseum_1_D_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Coliseum_4_D_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Coliseum_2_D_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_SkyCage_D_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\ThroneCover_D_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_DesertSandY_D_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Clock_FloorRug_D_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Coliseum_3_D_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Wroughtlron_D_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Chair_D_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_BighornStatic_D_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Wooden_D_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_GemCutter_D_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Chest_Uber_D_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_DesertSand_WavyY_D_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_DesertCliffs_2_D_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_DesertCliffs_1_D_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_DesertCliffs_3_D_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Hideout_Awnings_D_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Hideout_Forge_02_D_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\EnvironmentMapped\Body_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\EnvironmentMapped\Cockpit_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\EnvironmentMapped\Engines_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\EnvironmentMapped\saucer_texture_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\EnvironmentMapped\Skybox_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\7b26aa4d_Defuse_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\ee22d6e4_Defuse_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\57c1696e_Defuse_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\f779c12a_Defuse_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\bbb4258c_Defuse_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\d1c3d725_Defuse_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\b98d8325_Defuse_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\d4afa143_Defuse_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\6e2fc158_Defuse_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\09dbc9a9_Defuse_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\00925fb3_Defuse_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\ce35a7f8_Defuse_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\1bda4806_Defuse_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\7b26aa4d_Defuse_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\ee22d6e4_Defuse_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\57c1696e_Defuse_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\f779c12a_Defuse_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\bbb4258c_Defuse_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\d1c3d725_Defuse_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\b98d8325_Defuse_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\d4afa143_Defuse_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\6e2fc158_Defuse_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\09dbc9a9_Defuse_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\00925fb3_Defuse_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\ce35a7f8_Defuse_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\1bda4806_Defuse_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Ship\ShipDiffuse_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Ship\ShipDiffuse_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\TVBox\Red_Parquet2_diffuse_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\TVBox\TestCard_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\TVBox\Red_Parquet2_diffuse_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\TVBox\TestCard_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Marine\Textures\WeaponMachineGunDiffuse_0.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Marine\Textures\WeaponMachineGunDiffuse_1.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\Console.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\DejaVuSans.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\UITexture.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\Default.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\Console.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\UITexture.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\GameStatesSample\Default.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\GameStatesSample\UITexture.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Neoforce\UITextureRed.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\Cursors\Arrow.cur
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\Cursors\Cross.cur
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\Cursors\IBeam.cur
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\Cursors\SizeAll.cur
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\Cursors\SizeNESW.cur
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\Cursors\SizeNS.cur
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\Cursors\SizeNWSE.cur
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\Cursors\SizeWE.cur
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\Cursors\Unavailable.cur
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\Cursors\Wait.ani
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\Cursors\Arrow.cur
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\Cursors\Cross.cur
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\Cursors\IBeam.cur
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\Cursors\SizeAll.cur
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\Cursors\SizeNESW.cur
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\Cursors\SizeNS.cur
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\Cursors\SizeNWSE.cur
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\Cursors\SizeWE.cur
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\Cursors\Unavailable.cur
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\Cursors\Wait.ani
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Neoforce\Cursors\Arrow.cur
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Neoforce\Cursors\Cross.cur
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Neoforce\Cursors\IBeam.cur
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Neoforce\Cursors\SizeAll.cur
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Neoforce\Cursors\SizeNESW.cur
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Neoforce\Cursors\SizeNS.cur
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Neoforce\Cursors\SizeNWSE.cur
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Neoforce\Cursors\SizeWE.cur
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Neoforce\Cursors\WaitRed.cur
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Billboard.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Decals\GBuffer.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Decals\GBufferAlphaTest.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Decals\GBufferAlphaTestNormal.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Decals\GBufferNormal.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Decals\Material.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Decals\MaterialAlphaTest.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Decals\MaterialAlphaTestEmissive.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Decals\MaterialEmissive.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Deferred\AmbientLight.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Deferred\CascadedShadowMask.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Deferred\ClearGBuffer.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Deferred\CubeMapShadowMask.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Deferred\DirectionalLight.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Deferred\ImageBasedLight.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Deferred\PointLight.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Deferred\ProjectorLight.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Deferred\RebuildZBuffer.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Deferred\Spotlight.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Deferred\StandardShadowMask.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Deferred\Fog.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Line.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\Forward.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\ForwardEnv.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\ForwardMorphSkinned.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\ForwardTwoSided.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\GBuffer.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\GBufferAlphaTest.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\GBufferAlphaTestNormal.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\GBufferMorphNormalSkinned.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\GBufferMorphSkinned.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\GBufferNormal.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\GBufferNormalSkinned.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\GBufferNormalTransparent.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\GBufferSkinned.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\GBufferTransparent.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\Matcap.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\MatcapNormal.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\MatcapNormalSkinned.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\MatcapSkinned.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\Material.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\MaterialAlphaTest.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\MaterialAlphaTestEmissive.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\MaterialEmissive.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\MaterialEmissiveSkinned.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\MaterialMorphSkinned.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\MaterialSkinned.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\MaterialTransparent.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\Occluder.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\OccluderSkinned.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\ShadowMap.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\ShadowMapAlphaTest.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\ShadowMapAlphaTestSkinned.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\ShadowMapMorphSkinned.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\ShadowMapSkinned.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\OcclusionCulling.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\CieSkyFilter.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\ColorEncoder.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\EdgeFilter.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\SaoFilter.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\UpsampleFilter.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Sky\CloudLayer.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Sky\GradientSky.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Sky\GradientTextureSky.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Sky\ScatteringSky.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Sky\Skybox.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Sky\SkyObject.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Sky\Starfield.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\SpriteEffect.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Water\Ocean.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Water\Water.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\NormalsFittingTexture.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\BloomFilter.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\Blur.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\CameraMotionBlur.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\ColorCorrectionFilter.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\CopyFilter.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\DepthOfFieldFilter.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\DownsampleFilter.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\FxaaFilter.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\GodRayFilter.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\GrainFilter.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\HdrFilter.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\HorizontalBlur.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\KawaseBlur.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\LuminanceFilter.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\MadFilter.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\NormalMapDistortionFilter.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\ObjectMotionBlur.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\RadialBlur.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\SaturationFilter.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\SepiaFilter.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\SharpeningFilter.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\SimpleMotionBlur.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\SmaaAreaTexDX9.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\SmaaFilter.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\SmaaSearchTex.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\SsaoFilter.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\UnsharpMaskingFilter.xnb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Sky\Stars.bin
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\JohnStriker.exe
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\JohnStriker.pdb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Animation.dll
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Game.dll
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Game.Input.dll
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Game.UI.dll
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Geometry.dll
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Graphics.dll
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Mathematics.dll
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Particles.dll
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Physics.dll
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Physics.Specialized.dll
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.ServiceLocation.dll
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.xml
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Animation.xml
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Game.xml
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Game.Input.xml
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Game.UI.xml
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Geometry.xml
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Graphics.xml
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Mathematics.xml
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Particles.xml
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Physics.xml
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Physics.Specialized.xml
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.ServiceLocation.xml
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\JohnStriker.exe
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\JohnStriker.pdb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\JohnStriker.csprojResolveAssemblyReference.cache
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Bubble\Bubble.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MetalGrateBox\MetalGrateBox.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\RustyCube\RustyCube.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Barrel\Barrel.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Barrel\Barrel_Colored.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\GlassBox\GlassBox.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LavaBall\LavaBall.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MagicSphere\MagicSphere.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\PalmTree\palm_tree.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Island\Island.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Car\Car.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Car\Wheel.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Sphere.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile\missile.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile1\missile.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MissileAGM-114HellFire\AGM-114HellFire.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\M16DMissile\skyfighter fbx.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\M16DMissileOne\skyfighter fbx.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\ARC170\ARC170.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\ARC170SkyFighter\skyfighter fbx.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DesertArena_Art\DesertArena_Art.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\EnvironmentMapped\saucer.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\LightHouse.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\LightHouse1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightTower\LightTower.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Ship\Ship.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Ship\Ship_CollisionModel.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LavaBall\LavaBall_Collision.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\5086_Boat\5086Boat.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\5086_Boat\5086Boat_Collision.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\RustyCube\RustyCubes.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\1381968_hovercraft\hovercraft.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\3734734_hydro plane\hydro plane.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\1336214_Speed Boat\SpeedBoat.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\1263879_Cabin Cruiser\CabinCruiser.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\1263879_Cabin Cruiser\CabinCruiser_Collision.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\1381968_hovercraft\hovercraft_Collision.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Dude\Dude.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Dude\Dude_Collision.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Sandbox\Sandbox.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Jet\Jet.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MissileShape\missile.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Ammo\BulletModelOne.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Player\PlayerFighter.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile\wasp.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\PlayerFighter.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\TVBox\TVBox.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Marine\Weapon\WeaponMachineGun.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\uscg_rb_hs_fast_boat\boat.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Vegetation\BirdnestPlant\BirdnestPlant.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Vegetation\Grass\grass.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Vegetation\PalmTree\palm_tree.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\SpriteFont\ArialL.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\SpriteFont\SpriteFont1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\Default.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Neoforce\Console.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Neoforce\Default.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Billboard\BillboardReference.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Water\Foam.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Water\wave0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Water\wave1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Reticle.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Sky\MilkyWay.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Sky2.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LavaBall\LavaCubeMap.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MagicSphere\ColorCube.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Grass.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Sky\Moon.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Beam.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\BeamBlurred.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\beeWingFlap.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\BulletHole.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Clouds.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Distortion.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Explosion.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Explosion2.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Fire.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Flames.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Flash.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\LensFlare.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\RainDrop.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Ribbon.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Smoke.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Spark.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Spray.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Star.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Water.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile\Air Missle diffuse.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\HeightField\TerrainHeights.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Particle.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\ParticleColors.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Player\Textures\unique_weapon_diff.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile\Textures\metal_argon_pipes_grey_diff.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile\Textures\unique_weapon_diff.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Player\Textures\metal_argon_pipes_grey_diff.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\Textures\metal_argon_pipes_grey_diff.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\Textures\unique_weapon_diff.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Water\Underwater.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\FogSphere.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\VolumetricLight.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\Theme.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\Theme.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\GameStatesSample\Theme.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Neoforce\ThemeRed.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Ground\Ground.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particles\Explo1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\AudioMyGame\Waves\Beep.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\AudioMyGame\Waves\Bleep.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\AudioMyGame\Waves\CheckpointBetter.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\AudioMyGame\Waves\CheckpointWorse.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\AudioMyGame\Waves\Explo1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\AudioMyGame\Waves\Gear1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\AudioMyGame\Waves\Gear1ToGear2.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\AudioMyGame\Waves\Gear2.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\AudioMyGame\Waves\Gear2ToGear3.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\AudioMyGame\Waves\Gear3.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\AudioMyGame\Waves\Gear3ToGear4.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\AudioMyGame\Waves\Gear4.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\AudioMyGame\Waves\Gear4ToGear5.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\AudioMyGame\Waves\Gear5.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\AudioMyGame\Waves\GunAR15MachineGunSingle.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\AudioMyGame\Waves\menu_buttonclick.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\AudioMyGame\Waves\menu_highlight.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\AudioMyGame\Waves\menu_screenback.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\AudioMyGame\Waves\menu_screenclick.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\AudioMyGame\Waves\RacingGame Game Music 1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\AudioMyGame\Waves\RacingGame Game Music 2.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\AudioMyGame\Waves\RacingGame Menu Music 2.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\AudioMyGame\Waves\Victory.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Bubble\Glass_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Bubble\Glass_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Sky2_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MetalGrateBox\RustyMetal01_normal_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\RustyCube\RustyMetal01_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\RustyCube\RustyMetal01_diffuse_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\RustyCube\RustyMetal01_normal_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\RustyCube\RustyMetal01_specular_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Barrel\diffus_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Barrel\diffus_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Barrel\diffus_2.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LavaBall\Lava_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LavaBall\Lava_diffuse_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LavaBall\Lava_normal_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LavaBall\Lava_specular_emissive_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MagicSphere\Material_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MagicSphere\Color_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\TVBox\EmissiveMaterial_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\PalmTree\Material_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\PalmTree\diffus_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\PalmTree\normal_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\PalmTree\specular_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Island\Sand_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Island\Granit_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Island\sand_diffuse_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Island\sand_normal_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Island\sand_specular_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Island\Granit_Rock_diffuse_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Island\Granit_Rock_normal_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Island\Granit_Rock_specular_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Car\RacerCar_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Car\RacerCar_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile\Missile_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile\Air Missle diffuse_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile\Air Missle diffuse_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile\Missile_specular_emissive_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile1\Missile_c_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile1\Missile_c_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile1\1ffgdfd3333333333333s201_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MissileAGM-114HellFire\1ffgd266666666666601_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Missile1\1ffgdfd3333333333333s201_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MissileAGM-114HellFire\1ffgd266666666666601_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\ARC170\ARC170_TXT_VERSION_4_D_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\ARC170SkyFighter\ARC170_TXT_VERSION_4_D_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Coliseum_1_D_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Coliseum_4_D_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Coliseum_2_D_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_SkyCage_D_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\ThroneCover_D_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_DesertSandY_D_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Clock_FloorRug_D_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Coliseum_3_D_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Wroughtlron_D_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Chair_D_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_BighornStatic_D_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Wooden_D_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_GemCutter_D_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Chest_Uber_D_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_DesertSand_WavyY_D_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_DesertCliffs_2_D_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_DesertCliffs_1_D_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_DesertCliffs_3_D_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Hideout_Awnings_D_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Hideout_Forge_02_D_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Coliseum_1_D_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Coliseum_4_D_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Coliseum_2_D_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_SkyCage_D_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\ThroneCover_D_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_DesertSandY_D_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Clock_FloorRug_D_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Coliseum_3_D_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Wroughtlron_D_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Chair_D_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_BighornStatic_D_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Wooden_D_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_GemCutter_D_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Chest_Uber_D_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_DesertSand_WavyY_D_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_DesertCliffs_2_D_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_DesertCliffs_1_D_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_DesertCliffs_3_D_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Hideout_Awnings_D_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\T_Hideout_Forge_02_D_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\EnvironmentMapped\Body_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\EnvironmentMapped\Cockpit_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\EnvironmentMapped\Engines_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\EnvironmentMapped\saucer_texture_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\EnvironmentMapped\Skybox_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\7b26aa4d_Defuse_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\ee22d6e4_Defuse_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\57c1696e_Defuse_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\f779c12a_Defuse_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\bbb4258c_Defuse_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\d1c3d725_Defuse_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\b98d8325_Defuse_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\d4afa143_Defuse_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\6e2fc158_Defuse_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\09dbc9a9_Defuse_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\00925fb3_Defuse_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\ce35a7f8_Defuse_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\1bda4806_Defuse_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\7b26aa4d_Defuse_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\ee22d6e4_Defuse_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\57c1696e_Defuse_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\f779c12a_Defuse_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\bbb4258c_Defuse_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\d1c3d725_Defuse_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\b98d8325_Defuse_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\d4afa143_Defuse_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\6e2fc158_Defuse_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\09dbc9a9_Defuse_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\00925fb3_Defuse_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\ce35a7f8_Defuse_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\LightHouse\Textures\1bda4806_Defuse_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Ship\ShipDiffuse_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Ship\ShipDiffuse_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\1381968_hovercraft\RustyMetal01_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\1381968_hovercraft\aircraft tex_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\1381968_hovercraft\aircraft tex_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\1381968_hovercraft\aircraft texture1_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\3734734_hydro plane\RustyMetal01_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\3734734_hydro plane\aircraft tex_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\3734734_hydro plane\aircraft tex_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\3734734_hydro plane\aircraft texture1_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\1336214_Speed Boat\RustyMetal01_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\1336214_Speed Boat\aircraft tex_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\1336214_Speed Boat\aircraft tex_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\1336214_Speed Boat\aircraft texture1_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\1263879_Cabin Cruiser\RustyMetal01_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\1263879_Cabin Cruiser\aircraft tex_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\1263879_Cabin Cruiser\aircraft tex_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\1263879_Cabin Cruiser\aircraft texture1_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Dude\Head_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Dude\Jacket_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Dude\Pants_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Dude\UpBody_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Dude\Eyes_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Dude\head_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Dude\headN_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Dude\headS_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Dude\jacket_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Dude\jacketN_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Dude\jacketS_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Dude\pants_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Dude\pantsN_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Dude\pantsS_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Dude\upBodyC_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Dude\upBodyN_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Dude\upBodyS_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Sandbox\Sandbox_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Sandbox\Sandbox_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Ammo\RustyMetal01_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Ammo\aircraft tex_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Ammo\aircraft texture2_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\TVBox\Red_Parquet2_diffuse_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\TVBox\TestCard_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\TVBox\Red_Parquet2_diffuse_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\TVBox\TestCard_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Marine\Textures\WeaponMachineGunDiffuse_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Marine\Textures\WeaponMachineGunDiffuse_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\uscg_rb_hs_fast_boat\RustyMetal01_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\uscg_rb_hs_fast_boat\uscg_rb__0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\uscg_rb_hs_fast_boat\tex_deck_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\uscg_rb_hs_fast_boat\tex_wind_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\uscg_rb_hs_fast_boat\uscg_rb__1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\uscg_rb_hs_fast_boat\tex_deck_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\uscg_rb_hs_fast_boat\tex_wind_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Vegetation\BirdnestPlant\banana_bark_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Vegetation\BirdnestPlant\birdnest_leaf_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Vegetation\BirdnestPlant\banana_bark_diffuse_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Vegetation\ShadowMapVegetation_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Vegetation\GBufferVegetation_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Vegetation\MaterialVegetation_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Vegetation\BirdnestPlant\birdnest_leaf_diffuse_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Vegetation\BirdnestPlant\birdnest_leaf_normal_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Vegetation\BirdnestPlant\birdnest_leaf_specular_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Vegetation\Grass\Grass_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Vegetation\Grass\diffus_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Vegetation\ShadowMapGrass_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Vegetation\GBufferGrass_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Vegetation\MaterialGrass_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Vegetation\PalmTree\trunk_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Vegetation\PalmTree\leaves_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Vegetation\PalmTree\diffus_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Vegetation\PalmTree\normal_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Vegetation\PalmTree\specular_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\HeightField\Terrain_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\HeightField\Terrain_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\Console.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\DejaVuSans.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\UITexture.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\Default.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\Console.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\UITexture.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\GameStatesSample\Default.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\GameStatesSample\UITexture.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Neoforce\UITextureRed.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Ground\Checker_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Ground\checker_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\Cursors\Arrow.cur
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\Cursors\Cross.cur
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\Cursors\IBeam.cur
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\Cursors\SizeAll.cur
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\Cursors\SizeNESW.cur
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\Cursors\SizeNS.cur
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\Cursors\SizeNWSE.cur
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\Cursors\SizeWE.cur
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\Cursors\Unavailable.cur
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\BlendBlue\Cursors\Wait.ani
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\Cursors\Arrow.cur
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\Cursors\Cross.cur
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\Cursors\IBeam.cur
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\Cursors\SizeAll.cur
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\Cursors\SizeNESW.cur
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\Cursors\SizeNS.cur
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\Cursors\SizeNWSE.cur
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\Cursors\SizeWE.cur
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\Cursors\Unavailable.cur
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Aero\Cursors\Wait.ani
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Neoforce\Cursors\Arrow.cur
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Neoforce\Cursors\Cross.cur
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Neoforce\Cursors\IBeam.cur
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Neoforce\Cursors\SizeAll.cur
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Neoforce\Cursors\SizeNESW.cur
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Neoforce\Cursors\SizeNS.cur
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Neoforce\Cursors\SizeNWSE.cur
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Neoforce\Cursors\SizeWE.cur
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\UI Themes\Neoforce\Cursors\WaitRed.cur
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\AudioMyGame\MyGame.xgs
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\AudioMyGame\Wave Bank.xwb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\AudioMyGame\Sound Bank.xsb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Billboard.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Decals\GBuffer.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Decals\GBufferAlphaTest.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Decals\GBufferAlphaTestNormal.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Decals\GBufferNormal.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Decals\Material.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Decals\MaterialAlphaTest.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Decals\MaterialAlphaTestEmissive.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Decals\MaterialEmissive.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Deferred\AmbientLight.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Deferred\CascadedShadowMask.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Deferred\ClearGBuffer.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Deferred\CubeMapShadowMask.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Deferred\DirectionalLight.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Deferred\ImageBasedLight.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Deferred\PointLight.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Deferred\ProjectorLight.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Deferred\RebuildZBuffer.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Deferred\Spotlight.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Deferred\StandardShadowMask.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Deferred\Fog.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Line.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\Forward.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\ForwardEnv.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\ForwardMorphSkinned.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\ForwardTwoSided.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\GBuffer.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\GBufferAlphaTest.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\GBufferAlphaTestNormal.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\GBufferMorphNormalSkinned.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\GBufferMorphSkinned.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\GBufferNormal.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\GBufferNormalSkinned.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\GBufferNormalTransparent.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\GBufferSkinned.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\GBufferTransparent.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\Matcap.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\MatcapNormal.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\MatcapNormalSkinned.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\MatcapSkinned.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\Material.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\MaterialAlphaTest.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\MaterialAlphaTestEmissive.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\MaterialEmissive.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\MaterialEmissiveSkinned.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\MaterialMorphSkinned.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\MaterialSkinned.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\MaterialTransparent.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\Occluder.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\OccluderSkinned.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\ShadowMap.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\ShadowMapAlphaTest.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\ShadowMapAlphaTestSkinned.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\ShadowMapMorphSkinned.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Materials\ShadowMapSkinned.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\OcclusionCulling.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\CieSkyFilter.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\ColorEncoder.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\EdgeFilter.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\SaoFilter.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\UpsampleFilter.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Sky\CloudLayer.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Sky\GradientSky.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Sky\GradientTextureSky.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Sky\ScatteringSky.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Sky\Skybox.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Sky\SkyObject.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Sky\Starfield.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\SpriteEffect.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Water\Ocean.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\Water\Water.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\NormalsFittingTexture.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\BloomFilter.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\Blur.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\CameraMotionBlur.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\ColorCorrectionFilter.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\CopyFilter.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\DepthOfFieldFilter.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\DownsampleFilter.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\FxaaFilter.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\GodRayFilter.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\GrainFilter.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\HdrFilter.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\HorizontalBlur.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\KawaseBlur.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\LuminanceFilter.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\MadFilter.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\NormalMapDistortionFilter.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\ObjectMotionBlur.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\RadialBlur.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\SaturationFilter.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\SepiaFilter.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\SharpeningFilter.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\SimpleMotionBlur.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\SmaaAreaTexDX9.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\SmaaFilter.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\SmaaSearchTex.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\SsaoFilter.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DigitalRune\PostProcessing\UnsharpMaskingFilter.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Sky\Stars.bin
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\JohnStriker.exe.manifest
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\JohnStriker.application
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\JohnStriker.exe
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\JohnStriker.pdb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Animation.dll
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.dll
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Game.dll
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Game.Input.dll
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Game.UI.dll
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Geometry.dll
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Graphics.dll
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Mathematics.dll
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Particles.dll
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Physics.dll
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Physics.Specialized.dll
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.ServiceLocation.dll
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.xml
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Animation.xml
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Game.xml
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Game.Input.xml
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Game.UI.xml
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Geometry.xml
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Graphics.xml
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Mathematics.xml
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Particles.xml
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Physics.xml
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.Physics.Specialized.xml
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\DigitalRune.ServiceLocation.xml
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\JohnStriker.exe.manifest
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\JohnStriker.application
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\JohnStriker.exe
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\JohnStriker.pdb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\SEAPLANE A6M2N_L.3DS\SeaPlane_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\SEAPLANE A6M2N_L.3DS\black-glass-enamel-50g-7tgA_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\SEAPLANE A6M2N_L.3DS\aircraft tex_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\SEAPLANE A6M2N_L.3DS\black-glass-enamel-50g-7tgA_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\SEAPLANE A6M2N_L.3DS\RustyMetal01_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\SEAPLANE A6M2N_L.3DS\aircraft texture1_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\SEAPLANE A6M2N_L.3DS\Textures\metal_argon_pipes_grey_diff_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\SEAPLANE A6M2N_L.3DS\Textures\metal_argon_pipes_grey_diff_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\KillerFighter.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\RustyMetal01_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\aircraft tex_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\aircraft texture2_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\aircraft texture1_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\PBE_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\PBE01_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\Wasp_IRSwarm2_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\Wasp_IRSwarm0_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\Wasp_IRSwarm1_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\Wasp_IRSwarm4_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\Wasp_IRSwarm3_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\Wasp_IRSwarm18_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\Wasp_IRSwarm19_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\Wasp_IRSwarm17_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\Wasp_IRSwarm5_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\Wasp_IRSwarm6_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\Wasp_IRSwarm7_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\Wasp_IRSwarm8_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\Wasp_IRSwarm9_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\Wasp_IRSwarm15_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\Wasp_IRSwarm10_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\Wasp_IRSwarm11_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\Wasp_IRSwarm12_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\Wasp_IRSwarm13_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\Wasp_IRSwarm14_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\SeaPlane_2\SeaPlane_2.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\SEAPLANE A6M2N_L.3DS\aircraft tex_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\SeaPlane_2\RustyMetal01_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\SeaPlane_2\aircraft tex_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\SeaPlane_2\aircraft tex_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\SeaPlane_2\aircraft texture1_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Player\PBE_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Player\PBE01_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Player\RustyMetal01_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Player\Wasp_IRSwarm9_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Player\Wasp_IRSwarm10_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Player\Wasp_IRSwarm11_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Player\Wasp_IRSwarm8_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Player\Wasp_IRSwarm7_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Player\Wasp_IRSwarm6_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Player\Wasp_IRSwarm12_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Player\Wasp_IRSwarm13_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Player\Wasp_IRSwarm5_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Player\Wasp_IRSwarm4_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Player\Wasp_IRSwarm3_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Player\Wasp_IRSwarm2_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Player\Wasp_IRSwarm1_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Player\Wasp_IRSwarm0_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Player\aircraft tex_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Player\aircraft texture2_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Player\aircraft texture1_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Player\FlagScotland_1_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Billboard\healthbar.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Billboard\healthbar_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Billboard\healthbar_2.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Player\Healthbar0_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Player\Healthbar1_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Player\Healthbar2_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Player\Healthbar3_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Player\Healthbar4_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Player\Healthbar5_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Player\Healthbar6_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Player\Healthbar7_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Player\Healthbar8_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Player\Healthbar9_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Player\HealthbarRed_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Player\HealthbarRed_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\SlowKiller\skyfighter fbx.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\SlowKiller\RustyMetal01_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\SlowKiller\Healthbar0_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\SlowKiller\Healthbar1_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\SlowKiller\Healthbar2_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\SlowKiller\Healthbar3_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\SlowKiller\Healthbar4_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\SlowKiller\Healthbar5_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\SlowKiller\Healthbar6_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\SlowKiller\Healthbar7_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\SlowKiller\Healthbar8_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\SlowKiller\Healthbar9_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\SlowKiller\aircraft tex_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\SlowKiller\RustyMetal_2_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\SlowKiller\aircraft texture1_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\SlowKiller\HealthbarRed_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\SlowKiller\HealthbarRed_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\Healthbar0_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\Healthbar1_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\Healthbar2_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\Healthbar3_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\Healthbar4_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\Healthbar5_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\Healthbar6_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\Healthbar7_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\Healthbar8_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\Healthbar9_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\HealthbarRed_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Killer\HealthbarRed_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\StackPanelImages\Avalanche_torpedo.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\StackPanelImages\Alien_disintegrator.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Map\Map_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Map\Map_2.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Map\ArrowPlayers\Arrow_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Map\ArrowPlayers\Arrow_2.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Map\radar.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Map\ArrowPlayers\dot.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Map\ArrowPlayers\shell.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Map\ArrowPlayers\arrow.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Map\ArrowPlayers\airport6-512.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Map\ArrowPlayers\aircraft_airplane_aeroplane_plane_flight-128.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Map\ArrowPlayers\airplane.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Map\ArrowPlayers\plane-icone-8835-96.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MQ-9 Predator\MQ-9.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MQ-9 Predator\Drmat\Healthbar0_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MQ-9 Predator\Drmat\Healthbar1_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MQ-9 Predator\Drmat\Healthbar2_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MQ-9 Predator\Drmat\Healthbar3_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MQ-9 Predator\Drmat\Healthbar4_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MQ-9 Predator\Drmat\Healthbar5_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MQ-9 Predator\Drmat\Healthbar6_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MQ-9 Predator\Drmat\Healthbar7_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MQ-9 Predator\Drmat\Healthbar8_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MQ-9 Predator\Drmat\Healthbar9_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MQ-9 Predator\Drmat\Wasp_IRSwarm18_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MQ-9 Predator\Drmat\Wasp_IRSwarm19_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MQ-9 Predator\Drmat\Wasp_IRSwarm3_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MQ-9 Predator\Drmat\Wasp_IRSwarm2_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MQ-9 Predator\Drmat\Wasp_IRSwarm1_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MQ-9 Predator\Drmat\Wasp_IRSwarm0_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MQ-9 Predator\Drmat\Wasp_IRSwarm12_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MQ-9 Predator\Drmat\Wasp_IRSwarm11_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MQ-9 Predator\Drmat\Wasp_IRSwarm10_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MQ-9 Predator\Drmat\Wasp_IRSwarm7_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MQ-9 Predator\Drmat\Wasp_IRSwarm9_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MQ-9 Predator\Drmat\Wasp_IRSwarm8_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MQ-9 Predator\Drmat\Wasp_IRSwarm6_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MQ-9 Predator\Drmat\Wasp_IRSwarm5_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MQ-9 Predator\Drmat\Wasp_IRSwarm4_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MQ-9 Predator\Drmat\Wasp_IRSwarm13_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MQ-9 Predator\Drmat\Wasp_IRSwarm16_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MQ-9 Predator\Drmat\Wasp_IRSwarm15_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MQ-9 Predator\Drmat\Wasp_IRSwarm14_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MQ-9 Predator\Drmat\Textures\HealthbarRed_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MQ-9 Predator\Drmat\Textures\HealthbarRed_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MQ-9 Predator\Drmat\Textures\aircraft tex_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MQ-9 Predator\Drmat\Textures\aircraft texture2_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MQ-9 Predator\Drmat\Textures\aircraft texture1_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MQ-9 Predator\Drmat\Wasp_IRSwarm17_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MQ-9 Predator\Drmat\RustyMetal01_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\MQ-9 Predator\Drmat\Textures\FlagScotland_1_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\HeartHealthbar\HeartHealthbar.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\HeartHealthbar\HealthbarRed_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\HeartHealthbar\HealthbarRed_1.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\HeartHealthbar\HealthbarRed_normal_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\HeartHealthbar\HealthbarRed_emissive_0.xnb
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\JohnStriker.csprojResolveAssemblyReference.cache

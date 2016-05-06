@@ -1,0 +1,3 @@
+D:\Dropbox\Game\JohnStriker\JohnStriker\JohnStrikerContent\obj\x86\Debug\JohnStrikerContent.contentprojResolveAssemblyReference.cache
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStrikerContent\obj\x86\Debug\JohnStrikerContent.contentprojResolveAssemblyReference.cache
+C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStrikerContent\obj\x86\Debug\JohnStrikerContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,640 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="Wave Bank">Wave Bank
+{
+    Name = Wave Bank;
+    Xbox File = Xbox\Wave Bank.xwb;
+    Windows File = Win\Wave Bank.xwb;
+    Xbox Bank Path Edited = 1;
+    Windows Bank Path Edited = 1;
+    Seek Tables = 1;
+    Compression Preset Name = Music Compression;
+    Xbox Bank Last Modified Low = 0;
+    Xbox Bank Last Modified High = 0;
+    PC Bank Last Modified Low = 0;
+    PC Bank Last Modified High = 0;
+    Header Last Modified Low = 0;
+    Header Last Modified High = 0;
+    Bank Last Revised Low = 2202177116;
+    Bank Last Revised High = 30482321;
+
+    Wave
+    {
+        Name = menu_buttonclick;
+        File = waves\menu_buttonclick.wav;
+        Build Settings Last Modified Low = 1819983694;
+        Build Settings Last Modified High = 29833186;
+        Compression Preset Name = &lt;none&gt;;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 77616;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 264529224;
+            Last Modified High = 29811381;
+        }
+    }
+
+    Wave
+    {
+        Name = menu_screenback;
+        File = waves\menu_screenback.wav;
+        Build Settings Last Modified Low = 1819983694;
+        Build Settings Last Modified High = 29833186;
+        Compression Preset Name = &lt;none&gt;;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 63504;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1931149862;
+            Last Modified High = 29811378;
+        }
+    }
+
+    Wave
+    {
+        Name = menu_screenclick;
+        File = waves\menu_screenclick.wav;
+        Build Settings Last Modified Low = 1819983694;
+        Build Settings Last Modified High = 29833186;
+        Compression Preset Name = &lt;none&gt;;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 155232;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2017868612;
+            Last Modified High = 29811378;
+        }
+    }
+
+    Wave
+    {
+        Name = menu_highlight;
+        File = waves\menu_highlight.wav;
+        Build Settings Last Modified Low = 1819983694;
+        Build Settings Last Modified High = 29833186;
+        Compression Preset Name = &lt;none&gt;;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 63500;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2100368612;
+            Last Modified High = 29811378;
+        }
+    }
+
+    Wave
+    {
+        Name = RacingGameMenuMusic2;
+        File = waves\RacingGame Menu Music 2.wav;
+        Build Settings Last Modified Low = 1820139944;
+        Build Settings Last Modified High = 29833186;
+        Compression Preset Name = Music Compression;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 22050;
+            Bits Per Sample = 1;
+            Play Region Offset = 58;
+            Play Region Length = 11574216;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3234201112;
+            Last Modified High = 29816378;
+        }
+    }
+
+    Wave
+    {
+        Name = RacingGameGameMusic1;
+        File = waves\RacingGame Game Music 1.wav;
+        Build Settings Last Modified Low = 1820139944;
+        Build Settings Last Modified High = 29833186;
+        Compression Preset Name = Music Compression;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 22050;
+            Bits Per Sample = 1;
+            Play Region Offset = 58;
+            Play Region Length = 24762332;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2475138612;
+            Last Modified High = 29816378;
+        }
+    }
+
+    Wave
+    {
+        Name = RacingGameGameMusic2;
+        File = waves\RacingGame Game Music 2.wav;
+        Build Settings Last Modified Low = 1820139944;
+        Build Settings Last Modified High = 29833186;
+        Compression Preset Name = Music Compression;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 22050;
+            Bits Per Sample = 1;
+            Play Region Offset = 58;
+            Play Region Length = 28614600;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2712951112;
+            Last Modified High = 29816378;
+        }
+    }
+
+    Wave
+    {
+        Name = Gear1ToGear2;
+        File = waves\Gear1ToGear2.wav;
+        Build Settings Last Modified Low = 1819983694;
+        Build Settings Last Modified High = 29833186;
+        Compression Preset Name = MotorSounds Compression;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 222492;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 353619968;
+            Last Modified High = 29809767;
+        }
+    }
+
+    Wave
+    {
+        Name = Gear2;
+        File = waves\Gear2.wav;
+        Build Settings Last Modified Low = 1819983694;
+        Build Settings Last Modified High = 29833186;
+        Compression Preset Name = MotorSounds Compression;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 375936;
+            Loop Region Offset = 0;
+            Loop Region Length = 375936;
+            File Type = 1;
+            Last Modified Low = 55108096;
+            Last Modified High = 29806449;
+        }
+    }
+
+    Wave
+    {
+        Name = Gear2ToGear3;
+        File = waves\Gear2ToGear3.wav;
+        Build Settings Last Modified Low = 1819983694;
+        Build Settings Last Modified High = 29833186;
+        Compression Preset Name = MotorSounds Compression;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 239904;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2503554560;
+            Last Modified High = 29809765;
+        }
+    }
+
+    Wave
+    {
+        Name = Gear3;
+        File = waves\Gear3.wav;
+        Build Settings Last Modified Low = 1819983694;
+        Build Settings Last Modified High = 29833186;
+        Compression Preset Name = MotorSounds Compression;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 375936;
+            Loop Region Offset = 0;
+            Loop Region Length = 375936;
+            File Type = 1;
+            Last Modified Low = 55108096;
+            Last Modified High = 29806449;
+        }
+    }
+
+    Wave
+    {
+        Name = Gear3ToGear4;
+        File = waves\Gear3ToGear4.wav;
+        Build Settings Last Modified Low = 1820139944;
+        Build Settings Last Modified High = 29833186;
+        Compression Preset Name = MotorSounds Compression;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 228340;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2948587264;
+            Last Modified High = 29809766;
+        }
+    }
+
+    Wave
+    {
+        Name = Gear4;
+        File = waves\Gear4.wav;
+        Build Settings Last Modified Low = 1820139944;
+        Build Settings Last Modified High = 29833186;
+        Compression Preset Name = MotorSounds Compression;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 375936;
+            Loop Region Offset = 0;
+            Loop Region Length = 375936;
+            File Type = 1;
+            Last Modified Low = 55108096;
+            Last Modified High = 29806449;
+        }
+    }
+
+    Wave
+    {
+        Name = Gear4ToGear5;
+        File = waves\Gear4ToGear5.wav;
+        Build Settings Last Modified Low = 1820139944;
+        Build Settings Last Modified High = 29833186;
+        Compression Preset Name = MotorSounds Compression;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 220200;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1928718080;
+            Last Modified High = 29809770;
+        }
+    }
+
+    Wave
+    {
+        Name = Gear1;
+        File = waves\Gear1.wav;
+        Build Settings Last Modified Low = 1820139944;
+        Build Settings Last Modified High = 29833186;
+        Compression Preset Name = MotorSounds Compression;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 376448;
+            Loop Region Offset = 0;
+            Loop Region Length = 376448;
+            File Type = 1;
+            Last Modified Low = 35108096;
+            Last Modified High = 29806449;
+        }
+    }
+
+    Wave
+    {
+        Name = Gear5;
+        File = waves\Gear5.wav;
+        Build Settings Last Modified Low = 1820139944;
+        Build Settings Last Modified High = 29833186;
+        Compression Preset Name = MotorSounds Compression;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 357576;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3320740608;
+            Last Modified High = 29806927;
+        }
+    }
+
+    Wave
+    {
+        Name = Victory;
+        File = waves\Victory.wav;
+        Build Settings Last Modified Low = 2852320394;
+        Build Settings Last Modified High = 29833611;
+        Compression Preset Name = &lt;none&gt;;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 11025;
+            Bits Per Sample = 1;
+            Play Region Offset = 56;
+            Play Region Length = 59742;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2147756032;
+            Last Modified High = 29818608;
+        }
+    }
+
+    Wave
+    {
+        Name = CheckpointBetter;
+        File = waves\CheckpointBetter.wav;
+        Build Settings Last Modified Low = 2852320394;
+        Build Settings Last Modified High = 29833611;
+        Compression Preset Name = &lt;none&gt;;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 56;
+            Play Region Length = 63500;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3840677120;
+            Last Modified High = 29817780;
+        }
+    }
+
+    Wave
+    {
+        Name = CheckpointWorse;
+        File = waves\CheckpointWorse.wav;
+        Build Settings Last Modified Low = 2852320394;
+        Build Settings Last Modified High = 29833611;
+        Compression Preset Name = &lt;none&gt;;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 22050;
+            Bits Per Sample = 1;
+            Play Region Offset = 56;
+            Play Region Length = 35370;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3840677120;
+            Last Modified High = 29817780;
+        }
+    }
+
+    Wave
+    {
+        Name = Bleep;
+        File = Waves\Bleep.wav;
+        Build Settings Last Modified Low = 1731347780;
+        Build Settings Last Modified High = 29850352;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 199700;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2727781658;
+            Last Modified High = 29850351;
+        }
+    }
+
+    Wave
+    {
+        Name = Beep;
+        File = Waves\Beep.wav;
+        Build Settings Last Modified Low = 1731572352;
+        Build Settings Last Modified High = 29850352;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 176384;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2549657798;
+            Last Modified High = 29850351;
+        }
+    }
+
+    Wave
+    {
+        Name = Explo1;
+        File = Waves\Explo1.wav;
+        Build Settings Last Modified Low = 81136403;
+        Build Settings Last Modified High = 30482286;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 48000;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 1052672;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 773780992;
+            Last Modified High = 30444098;
+        }
+    }
+
+    Wave
+    {
+        Name = GunAR15MachineGunSingle;
+        File = Waves\GunAR15MachineGunSingle.wav;
+        Build Settings Last Modified Low = 139623035;
+        Build Settings Last Modified High = 30482286;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 123072;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3742919158;
+            Last Modified High = 30481651;
+        }
+    }
+
+    Wave
+    {
+        Name = Missile_Rip_By2_SE;
+        File = Waves\Missile_Rip_By2_SE.wav;
+        Build Settings Last Modified Low = 2358143750;
+        Build Settings Last Modified High = 30482292;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 631296;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1461374344;
+            Last Modified High = 30479676;
+        }
+    }
+
+    Wave
+    {
+        Name = PassbyMajor;
+        File = Waves\PassbyMajor.wav;
+        Build Settings Last Modified Low = 1310427930;
+        Build Settings Last Modified High = 30482321;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 88294;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 25710323;
+            Last Modified High = 30482320;
+        }
+    }
+
+    Wave
+    {
+        Name = PassbyMinor;
+        File = Waves\PassbyMinor.wav;
+        Build Settings Last Modified Low = 1310427930;
+        Build Settings Last Modified High = 30482321;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 17516;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 201843573;
+            Last Modified High = 30482321;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>

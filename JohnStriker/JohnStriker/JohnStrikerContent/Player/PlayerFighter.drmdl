@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This file was generated automatically by the DigitalRune Model Content Processor. -->
+
+<Model File="PlayerFighter.FBX"
+       GenerateTangentFrames="True"
+       PremultiplyVertexColors="True"
+       RotationX="0" RotationY="0" RotationZ="0"
+       Scale="1"
+       SwapWindingOrder="False">
+
+<Mesh Name="Player">
+    <Submesh Material="RustyMetal01.drmat" />
+  </Mesh> 
+        
+<Mesh Name="PBE">
+    <Submesh Material="PBE.drmat" />
+  </Mesh> 
+
+<Mesh Name="PBE001">
+    <Submesh Material="PBE01.drmat" />
+  </Mesh> 
+     
+<Mesh Name="Wasp_IRSwarm0">
+    <Submesh Material="Wasp_IRSwarm0.drmat" />
+  </Mesh> 
+         
+<Mesh Name="Wasp_IRSwarm1">
+    <Submesh Material="Wasp_IRSwarm1.drmat" />
+  </Mesh> 
+<Mesh Name="Wasp_IRSwarm2">
+    <Submesh Material="Wasp_IRSwarm2.drmat" />
+  </Mesh> 
+<Mesh Name="Wasp_IRSwarm3">
+    <Submesh Material="Wasp_IRSwarm3.drmat" />
+  </Mesh> 
+<Mesh Name="Wasp_IRSwarm4">
+    <Submesh Material="Wasp_IRSwarm4.drmat" />
+  </Mesh> 
+<Mesh Name="Wasp_IRSwarm5">
+    <Submesh Material="Wasp_IRSwarm5.drmat" />
+  </Mesh> 
+<Mesh Name="Wasp_IRSwarm6">
+    <Submesh Material="Wasp_IRSwarm6.drmat" />
+  </Mesh> 
+<Mesh Name="Wasp_IRSwarm7">
+    <Submesh Material="Wasp_IRSwarm7.drmat" />
+  </Mesh> 
+<Mesh Name="Wasp_IRSwarm8">
+    <Submesh Material="Wasp_IRSwarm8.drmat" />
+  </Mesh> 
+<Mesh Name="Wasp_IRSwarm9">
+    <Submesh Material="Wasp_IRSwarm9.drmat" />
+  </Mesh> 
+<Mesh Name="Wasp_IRSwarm10">
+    <Submesh Material="Wasp_IRSwarm10.drmat" />
+  </Mesh> 
+<Mesh Name="Wasp_IRSwarm11">
+    <Submesh Material="Wasp_IRSwarm11.drmat" />
+  </Mesh> 
+<Mesh Name="Wasp_IRSwarm12">
+    <Submesh Material="Wasp_IRSwarm12.drmat" />
+  </Mesh> 
+<Mesh Name="Wasp_IRSwarm13">
+    <Submesh Material="Wasp_IRSwarm13.drmat" />
+  </Mesh> 
+<Mesh Name="Wasp_IRSwarm14">
+    <Submesh Material="Wasp_IRSwarm14.drmat" />
+  </Mesh> 
+<Mesh Name="Wasp_IRSwarm15">
+    <Submesh Material="Wasp_IRSwarm15.drmat" />
+  </Mesh> 
+<Mesh Name="Wasp_IRSwarm16">
+    <Submesh Material="Wasp_IRSwarm16.drmat" />
+  </Mesh> 
+<Mesh Name="Wasp_IRSwarm17">
+    <Submesh Material="Wasp_IRSwarm17.drmat" />
+  </Mesh> 
+<Mesh Name="Wasp_IRSwarm18">
+    <Submesh Material="Wasp_IRSwarm18.drmat" />
+ </Mesh>   
+<Mesh Name="Wasp_IRSwarm19">
+    <Submesh Material="Wasp_IRSwarm19.drmat" />
+ </Mesh>                                        
+     <Mesh Name="Box0">
+    <Submesh Material="Healthbar0.drmat" />
+ </Mesh>  
+                                      
+     <Mesh Name="Box1">
+    <Submesh Material="Healthbar1.drmat" />
+ </Mesh>    
+                                      
+     <Mesh Name="Box2">
+    <Submesh Material="Healthbar2.drmat" />
+ </Mesh>    
+                                       
+     <Mesh Name="Box3">
+    <Submesh Material="Healthbar3.drmat" />
+ </Mesh>    
+                                        
+     <Mesh Name="Box4">
+    <Submesh Material="Healthbar4.drmat" />
+ </Mesh>    
+                                       
+     <Mesh Name="Box5">
+    <Submesh Material="Healthbar5.drmat" />
+ </Mesh>    
+                                      
+     <Mesh Name="Box6">
+    <Submesh Material="Healthbar6.drmat" />
+ </Mesh>    
+                                      
+     <Mesh Name="Box7">
+    <Submesh Material="Healthbar7.drmat" />
+ </Mesh>    
+                                       
+     <Mesh Name="Box8">
+    <Submesh Material="Healthbar8.drmat" />
+ </Mesh>    
+                                       
+     <Mesh Name="Box9">
+    <Submesh Material="Healthbar9.drmat" />
+ </Mesh>   
+     <Mesh Name="Text1">
+    <Submesh Material="text0.drmat" />
+ </Mesh>                                                                                   
+<!-- Optional: Define how animations in this model are processed. 
+
+  <Animations MergeFiles="idle.fbx;run.fbx;jump.fbx"
+              ScaleCompression="0.01" 
+              RotationCompression="1" 
+              TranslationCompression="0.01">
+  </Animations> 
+-->
+
+<!-- See the DigitalRune Graphics documentation for a full list of model processing options. -->
+   
+</Model>

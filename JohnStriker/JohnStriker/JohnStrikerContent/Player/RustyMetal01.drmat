@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Material>
+  
+  <Pass Name="ShadowMap" Effect="DigitalRune/Materials/ShadowMap" Profile="HiDef" />
+
+  <Pass Name="GBuffer" Effect="DigitalRune/Materials/GBufferNormal" Profile="HiDef">
+    <Parameter Name="SpecularPower" Value="100" />
+    <Texture Name="NormalTexture" Format="NormalInvertY" File="aircraft tex.jpg"/>
+  </Pass>
+  <Pass Name="Material" Effect="DigitalRune/Materials/Material" Profile="HiDef">
+    <Parameter Name="DiffuseColor" Value="1,1,1" />
+    <Parameter Name="SpecularColor" Value="1,1,1" />
+    <Texture Name="DiffuseTexture" File="FlagScotland_1.jpg"/>
+    <Texture Name="SpecularTexture" File="aircraft texture2.jpg"/>
+  </Pass>
+</Material>

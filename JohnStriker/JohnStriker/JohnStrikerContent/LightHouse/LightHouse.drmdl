@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This file was generated automatically by the DigitalRune Model Content Processor. -->
+
+<Model File="LightHouse.FBX"
+       GenerateTangentFrames="False"
+       PremultiplyVertexColors="True"
+       RotationX="0" RotationY="0" RotationZ="0"
+       Scale="1"
+       SwapWindingOrder="False">
+
+  <Mesh>
+    <Submesh Material="LightHouse.drmat" />
+  </Mesh>
+
+
+
+
+                                                                                     
+<!-- Optional: Define how animations in this model are processed. 
+
+  <Animations MergeFiles="idle.fbx;run.fbx;jump.fbx"
+              ScaleCompression="0.01" 
+              RotationCompression="1" 
+              TranslationCompression="0.01">
+  </Animations> 
+-->
+
+
+   
+</Model>

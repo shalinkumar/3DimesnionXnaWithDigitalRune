@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{9F09DFB6-7289-4130-A9D8-CD099827B4A9}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStrikerContents\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\JohnStrikerContents\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-04-25T21:49:30.1686922-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

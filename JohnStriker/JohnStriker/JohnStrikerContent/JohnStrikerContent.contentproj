@@ -1,0 +1,912 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{03202FCC-25F0-47E2-97D3-DFD567D47F94}</ProjectGuid>
+    <ProjectTypeGuids>{96E2B04D-8817-42c6-938A-82C39BA4D311};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <XnaFrameworkVersion>v4.0</XnaFrameworkVersion>
+    <OutputPath>bin\$(Platform)\$(Configuration)</OutputPath>
+    <ContentRootDirectory>Content</ContentRootDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace>JohnStrikerContent</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DigitalRune.Animation.Content.Pipeline">
+      <HintPath>..\..\Windows\DigitalRune.Animation.Content.Pipeline.dll</HintPath>
+    </Reference>
+    <Reference Include="DigitalRune.Game.UI.Content.Pipeline">
+      <HintPath>..\..\Windows\DigitalRune.Game.UI.Content.Pipeline.dll</HintPath>
+    </Reference>
+    <Reference Include="DigitalRune.Geometry.Content.Pipeline">
+      <HintPath>..\..\Windows\DigitalRune.Geometry.Content.Pipeline.dll</HintPath>
+    </Reference>
+    <Reference Include="DigitalRune.Graphics.Content.Pipeline">
+      <HintPath>..\..\Windows\DigitalRune.Graphics.Content.Pipeline.dll</HintPath>
+    </Reference>
+    <Reference Include="DigitalRune.Mathematics.Content.Pipeline">
+      <HintPath>..\..\Windows\DigitalRune.Mathematics.Content.Pipeline.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Content.Pipeline.AudioImporters, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="Microsoft.Xna.Framework.Content.Pipeline.EffectImporter, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Xna.Framework.Content.Pipeline.FBXImporter, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="Microsoft.Xna.Framework.Content.Pipeline.TextureImporter, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="Microsoft.Xna.Framework.Content.Pipeline.VideoImporters, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="Microsoft.Xna.Framework.Content.Pipeline.XImporter, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bubble\Bubble.fbx">
+      <Name>Bubble</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>DRModelProcessor</Processor>
+    </Compile>
+    <Compile Include="SpriteFont\ArialL.spritefont">
+      <Name>ArialL</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+    </Compile>
+    <Compile Include="SpriteFont\SpriteFont1.spritefont">
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="SlowKiller\skyfighter fbx.fbx">
+      <Name>skyfighter fbx</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelWithCollisionMeshProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Billboard\BillboardReference.png">
+      <Name>BillboardReference</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>DRTextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Water\Foam.png">
+      <Name>Foam</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Water\Underwater.fx">
+      <Name>Underwater</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Water\wave0.png">
+      <Name>wave0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Water\wave1.png">
+      <Name>wave1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="UI Themes\BlendBlue\Theme.xml">
+      <Name>Theme</Name>
+      <Importer>ThemeImporter</Importer>
+      <Processor>ThemeProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Samples.Content.Pipeline\Samples.Content.Pipeline.csproj">
+      <Project>{871ee206-2477-4145-b056-a4110e264700}</Project>
+      <Name>Samples.Content.Pipeline</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FogSphere.fx">
+      <Name>FogSphere</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="VolumetricLight.fx">
+      <Name>VolumetricLight</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Reticle.png">
+      <Name>Reticle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Sky\MilkyWay.dds">
+      <Name>MilkyWay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="MetalGrateBox\MetalGrateBox.fbx">
+      <Name>MetalGrateBox</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>DRModelProcessor</Processor>
+    </Compile>
+    <Compile Include="RustyCube\RustyCube.fbx">
+      <Name>RustyCube</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>DRModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Barrel\Barrel.fbx">
+      <Name>Barrel</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>DRModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Barrel\Barrel_Colored.fbx">
+      <Name>Barrel_Colored</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>DRModelProcessor</Processor>
+    </Compile>
+    <Compile Include="GlassBox\GlassBox.fbx">
+      <Name>GlassBox</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>DRModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Sky2.dds">
+      <Name>Sky2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>DRTextureProcessor</Processor>
+    </Compile>
+    <Compile Include="LavaBall\LavaCubeMap.dds">
+      <Name>LavaCubeMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>DRTextureProcessor</Processor>
+    </Compile>
+    <Compile Include="LavaBall\LavaBall.fbx">
+      <Name>LavaBall</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelWithCollisionMeshProcessor</Processor>
+    </Compile>
+    <Compile Include="MagicSphere\MagicSphere.fbx">
+      <Name>MagicSphere</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>DRModelProcessor</Processor>
+    </Compile>
+    <Compile Include="MagicSphere\ColorCube.dds">
+      <Name>ColorCube</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>DRTextureProcessor</Processor>
+    </Compile>
+    <Compile Include="PalmTree\palm_tree.fbx">
+      <Name>palm_tree</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>DRModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Island\Island.fbx">
+      <Name>Island</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelWithCollisionMeshProcessor</Processor>
+    </Compile>
+    <Compile Include="Car\Car.fbx">
+      <Name>Car</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>DRModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Car\Wheel.fbx">
+      <Name>Wheel</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>DRModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Particles\Sphere.fbx">
+      <Name>Sphere</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>DRModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Particles\Grass.tga">
+      <Name>Grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>DRTextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Missile\missile.FBX">
+      <Name>missile</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelWithCollisionMeshProcessor</Processor>
+    </Compile>
+    <Compile Include="Missile1\missile.fbx">
+      <Name>missile</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>DRModelProcessor</Processor>
+    </Compile>
+    <Compile Include="MissileAGM-114HellFire\AGM-114HellFire.fbx">
+      <Name>AGM-114HellFire</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>DRModelProcessor</Processor>
+    </Compile>
+    <Compile Include="M16DMissile\skyfighter fbx.fbx">
+      <Name>skyfighter fbx</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>DRModelProcessor</Processor>
+    </Compile>
+    <Compile Include="M16DMissileOne\skyfighter fbx.fbx">
+      <Name>skyfighter fbx</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>DRModelProcessor</Processor>
+    </Compile>
+    <Compile Include="ARC170\ARC170.FBX">
+      <Name>ARC170</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>DRModelProcessor</Processor>
+    </Compile>
+    <Compile Include="ARC170SkyFighter\skyfighter fbx.fbx">
+      <Name>skyfighter fbx</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>DRModelProcessor</Processor>
+    </Compile>
+    <Compile Include="DesertArena_Art\DesertArena_Art.fbx">
+      <Name>DesertArena_Art</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>DRModelProcessor</Processor>
+    </Compile>
+    <Compile Include="EnvironmentMapped\saucer.fbx">
+      <Name>saucer</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>DRModelProcessor</Processor>
+    </Compile>
+    <Compile Include="LightHouse\LightHouse.FBX">
+      <Name>LightHouse</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>DRModelProcessor</Processor>
+    </Compile>
+    <Compile Include="LightHouse\LightHouse1.FBX">
+      <Name>LightHouse1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>DRModelProcessor</Processor>
+    </Compile>
+    <Compile Include="LightTower\LightTower.FBX">
+      <Name>LightTower</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>DRModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Ship\Ship.fbx">
+      <Name>Ship</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>DRModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Ship\Ship_CollisionModel.fbx">
+      <Name>Ship_CollisionModel</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>CollisionShapeProcessor</Processor>
+    </Compile>
+    <Compile Include="LavaBall\LavaBall_Collision.FBX">
+      <Name>LavaBall_Collision</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>CollisionShapeProcessor</Processor>
+    </Compile>
+    <Compile Include="5086_Boat\5086Boat.FBX">
+      <Name>5086Boat</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+    </Compile>
+    <Compile Include="5086_Boat\5086Boat_Collision.FBX">
+      <Name>5086Boat_Collision</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>CollisionShapeProcessor</Processor>
+    </Compile>
+    <Compile Include="RustyCube\RustyCubes.FBX">
+      <Name>RustyCubes</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>DRModelProcessor</Processor>
+    </Compile>
+    <Compile Include="1381968_hovercraft\hovercraft.FBX">
+      <Name>hovercraft</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelWithCollisionMeshProcessor</Processor>
+    </Compile>
+    <Compile Include="3734734_hydro plane\hydro plane.FBX">
+      <Name>hydro plane</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>DRModelProcessor</Processor>
+    </Compile>
+    <Compile Include="1336214_Speed Boat\SpeedBoat.FBX">
+      <Name>SpeedBoat</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>DRModelProcessor</Processor>
+    </Compile>
+    <Compile Include="1263879_Cabin Cruiser\CabinCruiser.FBX">
+      <Name>CabinCruiser</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelWithCollisionMeshProcessor</Processor>
+    </Compile>
+    <Compile Include="1263879_Cabin Cruiser\CabinCruiser_Collision.FBX">
+      <Name>CabinCruiser_Collision</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>CollisionShapeProcessor</Processor>
+    </Compile>
+    <Compile Include="1381968_hovercraft\hovercraft_Collision.FBX">
+      <Name>hovercraft_Collision</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>CollisionShapeProcessor</Processor>
+    </Compile>
+    <Compile Include="Ground\Ground.x">
+      <Name>Ground</Name>
+      <Importer>XImporter</Importer>
+      <Processor>DRModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Dude\Dude.fbx">
+      <Name>Dude</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelWithCollisionMeshProcessor</Processor>
+    </Compile>
+    <Compile Include="Dude\Dude_Collision.FBX">
+      <Name>Dude_Collision</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>CollisionShapeProcessor</Processor>
+    </Compile>
+    <Compile Include="Sandbox\Sandbox.fbx">
+      <Name>Sandbox</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>DRModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Jet\Jet.FBX">
+      <Name>Jet</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelWithCollisionMeshProcessor</Processor>
+    </Compile>
+    <Compile Include="MissileShape\missile.FBX">
+      <Name>missile</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>CollisionShapeProcessor</Processor>
+    </Compile>
+    <Compile Include="Ammo\BulletModelOne.FBX">
+      <Name>BulletModelOne</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelWithCollisionMeshProcessor</Processor>
+    </Compile>
+    <Compile Include="Player\PlayerFighter.FBX">
+      <Name>PlayerFighter</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelWithCollisionMeshProcessor</Processor>
+    </Compile>
+    <Compile Include="Missile\wasp.FBX">
+      <Name>wasp</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelWithCollisionMeshProcessor</Processor>
+    </Compile>
+    <Compile Include="Killer\PlayerFighter.FBX">
+      <Name>PlayerFighter</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelWithCollisionMeshProcessor</Processor>
+    </Compile>
+    <Compile Include="SEAPLANE A6M2N_L.3DS\SeaPlane_1.FBX">
+      <Name>SeaPlane_1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelWithCollisionMeshProcessor</Processor>
+    </Compile>
+    <Compile Include="Killer\KillerFighter.FBX">
+      <Name>KillerFighter</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelWithCollisionMeshProcessor</Processor>
+    </Compile>
+    <Compile Include="SeaPlane_2\SeaPlane_2.FBX">
+      <Name>SeaPlane_2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelWithCollisionMeshProcessor</Processor>
+    </Compile>
+    <Compile Include="MQ-9 Predator\MQ-9.FBX">
+      <Name>MQ-9</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelWithCollisionMeshProcessor</Processor>
+    </Compile>
+    <Compile Include="HeartHealthbar\HeartHealthbar.FBX">
+      <Name>HeartHealthbar</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelWithCollisionMeshProcessor</Processor>
+    </Compile>
+    <None Include="Sky\Stars.bin">
+      <Name>Stars</Name>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <Compile Include="TVBox\TVBox.fbx">
+      <Name>TVBox</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>DRModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Marine\Weapon\WeaponMachineGun.fbx">
+      <Name>WeaponMachineGun</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>DRModelProcessor</Processor>
+    </Compile>
+    <Compile Include="UI Themes\BlendBlue\Default.spritefont">
+      <Name>Default</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+    </Compile>
+    <Compile Include="UI Themes\Neoforce\Console.spritefont">
+      <Name>Console</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+    </Compile>
+    <Compile Include="UI Themes\Neoforce\Default.spritefont">
+      <Name>Default</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+    </Compile>
+    <Compile Include="uscg_rb_hs_fast_boat\boat.FBX">
+      <Name>boat</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>DRModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Vegetation\BirdnestPlant\BirdnestPlant.FBX">
+      <Name>BirdnestPlant</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>DRModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Vegetation\Grass\grass.FBX">
+      <Name>grass</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>DRModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Vegetation\PalmTree\palm_tree.fbx">
+      <Name>palm_tree</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>DRModelProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Sky\Moon.png">
+      <Name>Moon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="UI Themes\Aero\Theme.xml">
+      <Name>Theme</Name>
+      <Importer>ThemeImporter</Importer>
+      <Processor>ThemeProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Particles\Beam.png">
+      <Name>Beam</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>DRTextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Particles\BeamBlurred.png">
+      <Name>BeamBlurred</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>DRTextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Particles\beeWingFlap.png">
+      <Name>beeWingFlap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>DRTextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Particles\BulletHole.png">
+      <Name>BulletHole</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>DRTextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Particles\Clouds.png">
+      <Name>Clouds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>DRTextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Particles\Distortion.png">
+      <Name>Distortion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>DRTextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Particles\Explo1.wav">
+      <Name>Explo1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+    </Compile>
+    <Compile Include="Particles\Explosion.png">
+      <Name>Explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>DRTextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Particles\Explosion2.png">
+      <Name>Explosion2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>DRTextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Particles\Fire.png">
+      <Name>Fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>DRTextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Particles\Flames.png">
+      <Name>Flames</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>DRTextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Particles\Flash.png">
+      <Name>Flash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>DRTextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Particles\LensFlare.png">
+      <Name>LensFlare</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>DRTextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Particles\RainDrop.png">
+      <Name>RainDrop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>DRTextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Particles\Ribbon.png">
+      <Name>Ribbon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>DRTextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Particles\Smoke.png">
+      <Name>Smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>DRTextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Particles\Spark.png">
+      <Name>Spark</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>DRTextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Particles\Spray.png">
+      <Name>Spray</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>DRTextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Particles\Star.png">
+      <Name>Star</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>DRTextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Particles\Water.png">
+      <Name>Water</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>DRTextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="2451463_Coastline for Pullen Island NJ\" />
+    <Folder Include="3dlands_WaterTower-3ds\" />
+    <Folder Include="AudioMyGame\Win\" />
+    <Folder Include="AudioMyGame\Xbox\" />
+    <Folder Include="HouseLight\" />
+    <Folder Include="Marine\Textures\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Missile\Air Missle diffuse.jpg">
+      <Name>Air Missle diffuse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>DRTextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="UI Themes\GameStatesSample\Theme.xml">
+      <Name>Theme</Name>
+      <Importer>ThemeImporter</Importer>
+      <Processor>ThemeProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="UI Themes\Neoforce\ThemeRed.xml">
+      <Name>ThemeRed</Name>
+      <Importer>ThemeImporter</Importer>
+      <Processor>ThemeProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="HeightField\TerrainHeights.png">
+      <Name>TerrainHeights</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>HeightFieldProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Particles\Particle.png">
+      <Name>Particle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Particles\ParticleColors.png">
+      <Name>ParticleColors</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AudioMyGame\MyGame.xap">
+      <Name>MyGame</Name>
+      <Importer>XactImporter</Importer>
+      <Processor>XactProcessor</Processor>
+    </Compile>
+    <Compile Include="AudioMyGame\Waves\Beep.wav">
+      <Name>Beep</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+    </Compile>
+    <Compile Include="AudioMyGame\Waves\Bleep.wav">
+      <Name>Bleep</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+    </Compile>
+    <Compile Include="AudioMyGame\Waves\CheckpointBetter.wav">
+      <Name>CheckpointBetter</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+    </Compile>
+    <Compile Include="AudioMyGame\Waves\CheckpointWorse.wav">
+      <Name>CheckpointWorse</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+    </Compile>
+    <Compile Include="AudioMyGame\Waves\Explo1.wav">
+      <Name>Explo1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+    </Compile>
+    <Compile Include="AudioMyGame\Waves\Gear1.wav">
+      <Name>Gear1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+    </Compile>
+    <Compile Include="AudioMyGame\Waves\Gear1ToGear2.wav">
+      <Name>Gear1ToGear2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+    </Compile>
+    <Compile Include="AudioMyGame\Waves\Gear2.wav">
+      <Name>Gear2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+    </Compile>
+    <Compile Include="AudioMyGame\Waves\Gear2ToGear3.wav">
+      <Name>Gear2ToGear3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+    </Compile>
+    <Compile Include="AudioMyGame\Waves\Gear3.wav">
+      <Name>Gear3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+    </Compile>
+    <Compile Include="AudioMyGame\Waves\Gear3ToGear4.wav">
+      <Name>Gear3ToGear4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+    </Compile>
+    <Compile Include="AudioMyGame\Waves\Gear4.wav">
+      <Name>Gear4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+    </Compile>
+    <Compile Include="AudioMyGame\Waves\Gear4ToGear5.wav">
+      <Name>Gear4ToGear5</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+    </Compile>
+    <Compile Include="AudioMyGame\Waves\Gear5.wav">
+      <Name>Gear5</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+    </Compile>
+    <Compile Include="AudioMyGame\Waves\GunAR15MachineGunSingle.wav">
+      <Name>GunAR15MachineGunSingle</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+    </Compile>
+    <Compile Include="AudioMyGame\Waves\menu_buttonclick.wav">
+      <Name>menu_buttonclick</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+    </Compile>
+    <Compile Include="AudioMyGame\Waves\menu_highlight.wav">
+      <Name>menu_highlight</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+    </Compile>
+    <Compile Include="AudioMyGame\Waves\menu_screenback.wav">
+      <Name>menu_screenback</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+    </Compile>
+    <Compile Include="AudioMyGame\Waves\menu_screenclick.wav">
+      <Name>menu_screenclick</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+    </Compile>
+    <Compile Include="AudioMyGame\Waves\RacingGame Game Music 1.wav">
+      <Name>RacingGame Game Music 1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+    </Compile>
+    <Compile Include="AudioMyGame\Waves\RacingGame Game Music 2.wav">
+      <Name>RacingGame Game Music 2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+    </Compile>
+    <Compile Include="AudioMyGame\Waves\RacingGame Menu Music 2.wav">
+      <Name>RacingGame Menu Music 2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+    </Compile>
+    <Compile Include="AudioMyGame\Waves\Victory.wav">
+      <Name>Victory</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Player\Textures\unique_weapon_diff.png">
+      <Name>unique_weapon_diff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Missile\Textures\metal_argon_pipes_grey_diff.png">
+      <Name>metal_argon_pipes_grey_diff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Missile\Textures\unique_weapon_diff.png">
+      <Name>unique_weapon_diff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Player\Textures\metal_argon_pipes_grey_diff.png">
+      <Name>metal_argon_pipes_grey_diff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Killer\Textures\metal_argon_pipes_grey_diff.png">
+      <Name>metal_argon_pipes_grey_diff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Killer\Textures\unique_weapon_diff.png">
+      <Name>unique_weapon_diff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Billboard\healthbar.png">
+      <Name>healthbar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Billboard\healthbar_1.png">
+      <Name>healthbar_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Billboard\healthbar_2.png">
+      <Name>healthbar_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="StackPanelImages\Avalanche_torpedo.png">
+      <Name>Avalanche_torpedo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="StackPanelImages\Alien_disintegrator.png">
+      <Name>Alien_disintegrator</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Map\Map_1.png">
+      <Name>Map_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Map\Map_2.jpg">
+      <Name>Map_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Map\ArrowPlayers\Arrow_1.jpg">
+      <Name>Arrow_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Map\ArrowPlayers\Arrow_2.png">
+      <Name>Arrow_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Map\radar.png">
+      <Name>radar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Map\ArrowPlayers\dot.png">
+      <Name>dot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Map\ArrowPlayers\shell.png">
+      <Name>shell</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Map\ArrowPlayers\arrow.png">
+      <Name>arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Map\ArrowPlayers\airport6-512.png">
+      <Name>airport6-512</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Map\ArrowPlayers\aircraft_airplane_aeroplane_plane_flight-128.png">
+      <Name>aircraft_airplane_aeroplane_plane_flight-128</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Map\ArrowPlayers\airplane.png">
+      <Name>airplane</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Map\ArrowPlayers\plane-icone-8835-96.png">
+      <Name>plane-icone-8835-96</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\$(XnaFrameworkVersion)\Microsoft.Xna.GameStudio.ContentPipeline.targets" />
+  <!--  To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

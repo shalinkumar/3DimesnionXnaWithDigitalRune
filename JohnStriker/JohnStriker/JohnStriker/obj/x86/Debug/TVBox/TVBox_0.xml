@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:MeshContent">
+    <Name>TV</Name>
+    <Identity>
+      <SourceFilename>C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStrikerContent\TVBox\TVBox.fbx</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+    <Positions>0.5 -0.3 -0.4 -0.4 -0.3 -0.3 -0.5 -0.3 -0.4 -0.5 0.3 -0.4 0.5 0.3 -0.4 -0.5 -0.3 -0.4 -0.5 -0.3 0.4 -0.5 0.3 0.4 -0.4 -0.3 0.3 0.4 -0.3 0.3 0.4 -0.3 0.3 0.4 -0.3 -0.3 0.5 0.3 -0.4 0.5 -0.3 -0.4 0.5 0.3 0.4 0.5 -0.3 0.4 0.5 0.3 -0.4 -0.5 0.3 -0.4 0.5 0.3 0.4 -0.5 0.3 0.4 0.5 0.3 0.4 0.5 -0.3 0.4 -0.5 -0.3 0.4 -0.5 0.3 0.4 0.5 -0.3 -0.4 -0.5 -0.3 -0.4 -0.5 0.3 -0.4 0.5 -0.3 0.4 0.4 -0.3 -0.3 -0.38 -0.25 -0.28 0.38 -0.25 -0.28 -0.4 -0.3 -0.3 0.4 -0.3 0.3 0.4 -0.3 -0.3 -0.5 -0.3 0.4 -0.4 -0.3 -0.3 -0.4 -0.3 0.3 -0.38 -0.25 0.28 0.38 -0.25 0.28 -0.38 -0.25 -0.28 0.38 -0.25 -0.28 -0.4 -0.3 0.3 -0.38 -0.25 -0.28 -0.38 -0.25 0.28 0.38 -0.25 0.28 -0.38 -0.25 0.28 0.38 -0.25 -0.28 0.38 -0.25 0.28</Positions>
+    <Geometry>
+      <Batch>
+        <Material>#Resource1</Material>
+        <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14 18 17 16 16 19 18 22 21 20 20 23 22 26 25 24 24 27 26 30 29 28 28 31 30 34 33 32 32 35 34 38 37 36 36 39 38 42 41 40 40 43 42 46 45 44 44 47 46 50 49 48 48 51 50</Indices>
+        <Vertices>
+          <PositionIndices>4 24 25 26 18 16 17 19 2 6 7 3 20 23 22 21 11 9 47 46 35 36 34 5 0 27 32 28 30 29 31 33 42 43 41 1 10 8 45 44 12 14 15 13 27 34 36 32 5 0 28 35</PositionIndices>
+          <Channels>
+            <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 -0.9999695 0 0 -1 0 0 -0.9999695 0 0 -1 0 1 0 0 1 0 0 0.9999695 0 0 1 0 -1 0 0 -1 0 0 -0.9999695 0 0 -1 0 0 0 0 1 0 0 0.9999695 0 0 1 0 0 1 -0.9284646 -0.371379733 0 -0.9284646 -0.371379733 0 -0.9284646 -0.371379733 0 -0.9284646 -0.371379733 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -0.371379733 0.9284646 0 -0.371379733 0.9284646 0 -0.371379733 0.9284646 0 -0.371379733 0.9284646 0.9284646 -0.371379733 0 0.9284646 -0.371379733 0 0.9284646 -0.371379733 0 0.9284646 -0.371379733 0 0 -0.371379733 -0.9284646 0 -0.371379733 -0.9284646 0 -0.371379733 -0.9284646 0 -0.371379733 -0.9284646 1 0 0 1 0 0 0.9999695 0 0 1 0 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0</VertexChannel>
+            <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">-0.003906 1 0.996094 1 0.996094 0 -0.003906 0 -0.003906 1 0.996094 1 0.996094 0 -0.003906 0 -0.003906 1 0.996094 1 0.996094 0 -0.003906 0 -0.003906 1 0.996094 1 0.996094 0 -0.003906 0 0.207031 0.339844 0.808594 0.335938 0.773438 0.298828 0.242188 0.302734 0.776855 0.511719 0.175293 0.515625 0.075684 0.617188 0.876465 0.611328 0.888672 0.263672 0.087891 0.269531 0.1875 0.369141 0.789062 0.365234 0.865234 0.927734 0.144531 0.927734 0.109375 0.964844 0.902344 0.964844 0.759766 0.802734 0.230469 0.808594 0.193359 0.841797 0.794922 0.837891 0.894598 0.297726 0.101678 0.298164 0.134831 0.334479 0.858836 0.333434 -0.003906 1 0.996094 1 0.996094 0 -0.003906 0 0.994141 0.015625 0 0.015625 0.101562 0.117188 0.894531 0.117188 0.003418 0.988281 0.997559 0.988281 0.895996 0.888672 0.103027 0.888672</VertexChannel>
+          </Channels>
+        </Vertices>
+      </Batch>
+      <Batch>
+        <Material>#Resource2</Material>
+        <Indices>2 1 0 0 3 2</Indices>
+        <Vertices>
+          <PositionIndices>40 38 37 39</PositionIndices>
+          <Channels>
+            <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 -0.9999695 0 0 -1 0 0 -1 0 0 -0.9999695 0</VertexChannel>
+            <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.996094 1 0.996094 0 -0.003906 0 -0.003906 1</VertexChannel>
+          </Channels>
+        </Vertices>
+      </Batch>
+    </Geometry>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Name>Wood__Red_Parquet2_diffuse_png</Name>
+      <Identity>
+        <SourceFilename>C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStrikerContent\TVBox\TVBox.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.640000045 0.640000045 0.640000045</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External1</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+    <Resource ID="#Resource2" Type="Graphics:BasicMaterialContent">
+      <Name>TVScreen__TestCard_png</Name>
+      <Identity>
+        <SourceFilename>C:\Users\shalin\Dropbox\Game\JohnStriker\JohnStriker\JohnStrikerContent\TVBox\TVBox.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.8 0.8 0.8</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0.8 0.8 0.8</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0.5 0.5 0.5</Data>
+        <Data Key="SpecularPower" Type="float">80</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External2</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+  </Resources>
+  <ExternalReferences>
+    <ExternalReference ID="#External1" TargetType="Graphics:TextureContent">..\..\..\..\..\JohnStrikerContent\TVBox\Red_Parquet2_diffuse.png</ExternalReference>
+    <ExternalReference ID="#External2" TargetType="Graphics:TextureContent">..\..\..\..\..\JohnStrikerContent\TVBox\TestCard.png</ExternalReference>
+  </ExternalReferences>
+</XnaContent>

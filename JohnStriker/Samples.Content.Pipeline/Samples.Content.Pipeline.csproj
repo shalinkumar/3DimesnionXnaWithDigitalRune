@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <ProjectGuid>{871EE206-2477-4145-B056-A4110E264700}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Samples.Content.Pipeline</RootNamespace>
+    <AssemblyName>Samples.Content.Pipeline</AssemblyName>
+    <XnaFrameworkVersion>v4.0</XnaFrameworkVersion>
+    <XnaPlatform>Windows</XnaPlatform>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\x86\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\x86\Release</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DigitalRune">
+      <HintPath>..\Windows\DigitalRune.dll</HintPath>
+    </Reference>
+    <Reference Include="DigitalRune.Animation">
+      <HintPath>..\Windows\DigitalRune.Animation.dll</HintPath>
+    </Reference>
+    <Reference Include="DigitalRune.Game">
+      <HintPath>..\Windows\DigitalRune.Game.dll</HintPath>
+    </Reference>
+    <Reference Include="DigitalRune.Game.Input">
+      <HintPath>..\Windows\DigitalRune.Game.Input.dll</HintPath>
+    </Reference>
+    <Reference Include="DigitalRune.Game.UI">
+      <HintPath>..\Windows\DigitalRune.Game.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="DigitalRune.Geometry">
+      <HintPath>..\Windows\DigitalRune.Geometry.dll</HintPath>
+    </Reference>
+    <Reference Include="DigitalRune.Graphics">
+      <HintPath>..\Windows\DigitalRune.Graphics.dll</HintPath>
+    </Reference>
+    <Reference Include="DigitalRune.Graphics.Content.Pipeline">
+      <HintPath>..\Windows\DigitalRune.Graphics.Content.Pipeline.dll</HintPath>
+    </Reference>
+    <Reference Include="DigitalRune.Mathematics">
+      <HintPath>..\Windows\DigitalRune.Mathematics.dll</HintPath>
+    </Reference>
+    <Reference Include="DigitalRune.Particles">
+      <HintPath>..\Windows\DigitalRune.Particles.dll</HintPath>
+    </Reference>
+    <Reference Include="DigitalRune.Physics">
+      <HintPath>..\Windows\DigitalRune.Physics.dll</HintPath>
+    </Reference>
+    <Reference Include="DigitalRune.Physics.Specialized">
+      <HintPath>..\Windows\DigitalRune.Physics.Specialized.dll</HintPath>
+    </Reference>
+    <Reference Include="DigitalRune.ServiceLocation">
+      <HintPath>..\Windows\DigitalRune.ServiceLocation.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.ServiceLocation">
+      <HintPath>..\Windows\Microsoft.Practices.ServiceLocation.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <SpecificVersion>True</SpecificVersion>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Graphics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <SpecificVersion>True</SpecificVersion>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Content.Pipeline, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <SpecificVersion>true</SpecificVersion>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AvatarAnimationProcessor.cs" />
+    <Compile Include="CollisionShapeProcessor.cs" />
+    <Compile Include="HeightFieldProcessor.cs" />
+    <Compile Include="ModelWithCollisionMeshProcessor.cs" />
+    <Compile Include="ModelWithConvexHullProcessor.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\Microsoft.Xna.GameStudio.ContentPipelineExtensions.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+     Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

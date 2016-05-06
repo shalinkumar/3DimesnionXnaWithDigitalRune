@@ -1,0 +1,948 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using DigitalRune.Game.Input;
+using DigitalRune.Game.UI;
+using DigitalRune.Game.UI.Controls;
+using DigitalRune.Geometry;
+using DigitalRune.Geometry.Collisions;
+using DigitalRune.Geometry.Shapes;
+using DigitalRune.Graphics;
+using DigitalRune.Graphics.Rendering;
+using DigitalRune.Graphics.SceneGraph;
+using DigitalRune.Mathematics.Algebra;
+using DigitalRune.Mathematics.Statistics;
+using DigitalRune.Physics;
+using DigitalRune.Physics.Constraints;
+using DigitalRune.Physics.ForceEffects;
+using JohnStriker.GameObjects.AmmoObject;
+using JohnStriker.GameObjects.OpponentObjects;
+using JohnStriker.GameObjects.OpponentObjects.Killers;
+using JohnStriker.GameObjects.VehicleObject;
+using JohnStriker.GraphicsScreen;
+using JohnStriker.Sample_Framework;
+using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Audio;
+using Microsoft.Xna.Framework.Content;
+using Microsoft.Xna.Framework.Graphics;
+using Microsoft.Xna.Framework.Input;
+using MathHelper = DigitalRune.Mathematics.MathHelper;
+using Plane = DigitalRune.Geometry.Shapes.Plane;
+
+namespace JohnStriker.GameObjects
+{
+    [Sample(SampleCategory.Graphics,
+        @"This sample shows how to render and infinite plane of water including waves.",
+        @"",
+        118)]
+    [Controls(@"Sample
+  Hold <H>/<Shift>+<H> to decrease/increase the wave height.
+  Press <J> to switch water color.
+  Press <K> to switch between skybox reflection and planar reflection.
+  Press <L> to change caustic settings.")]
+    public class MyGameComponent : GameManager
+    {
+        private const float Timer = 10;
+
+        private static readonly TimeSpan ExplosionInterval = TimeSpan.FromSeconds(3);
+
+        private readonly MissileObject.MissileObject MissileObject;
+
+        private readonly AmmoObject.AmmoObjectFour ammoObject;
+
+        private readonly CameraNode _cameraNode;
+
+        private readonly CollisionDomain _collisionDomain;
+
+        private readonly IInputService _inputService;
+
+        // A list of all used plant meshes.
+        private readonly List<Mesh> _meshes = new List<Mesh>();
+
+        private readonly DeferredGraphicsScreen _myGraphicsScreen;
+
+        private readonly PlayerObjects.PlayerObjects _playerObjects;
+
+        private readonly StringBuilder _stringBuilder = new StringBuilder();
+
+        private readonly TextBlock _updateFpsTextBlock;
+
+        private readonly WaterNode _waterNode;
+
+        private readonly List<List<DynamicOpponents>> nestedListDynamicOpponents = new List<List<DynamicOpponents>>();
+
+        private readonly VehicleGeametric vehicleGeametric;
+
+        private int _causticType;
+
+        private int _enemyCount;
+
+        private StackPanel _fpsPanel;
+
+        private GuiMissileScreen _guiGraphicsScreen;
+
+        private bool _isOpponentObjects = true;
+
+        private bool _isParticleSystemNode;
+
+        private ParticleSystemNode _particleSystemNode;
+
+        private BallJoint _spring;
+
+        private float _springAttachmentDistanceFromObserver;
+
+        private TimeSpan _timeUntilExplosion = TimeSpan.Zero;
+
+        private int _waterColorType;
+
+        private Pose cameraPose;
+
+        private float timer = 10; //Initialize a 10 second timer
+
+        private AudioListener _listener;
+
+        private CameraNode cameraNodeAudio;
+
+        private SoundEffectInstance[] _hitSoundInstances = new SoundEffectInstance[5];
+
+        private AudioEmitter[] _hitEmitters = new AudioEmitter[5];
+
+        private float _timeSinceLastHitSound;
+
+        private SoundEffect _hitSound;
+
+        private int numberOfRollingContacts = 0;
+
+        private readonly SoundEffect missileSoundEffect;
+
+        private static readonly TimeSpan AmmoInterval = TimeSpan.FromSeconds(1);
+
+        private TimeSpan _timeUntilAmmo = TimeSpan.Zero;
+
+        private readonly SoundEffect ammoSoundEffect;
+
+        private const float MinHitForce = 20000;
+
+        private OpponentObjects.Behavior.EvadeBehavior EvadeBehavior;
+
+        public MyGameComponent(Game game)
+            : base(game)
+        {
+            SampleFramework.IsMouseVisible = false;
+
+            _myGraphicsScreen = new DeferredGraphicsScreen(Services);
+
+            _myGraphicsScreen.DrawReticle = true;
+
+            GraphicsService.Screens.Insert(0, _myGraphicsScreen);
+
+            GameObjectService.Objects.Add(new DeferredGraphicsOptionsObject(Services));
+
+            _inputService = Services.GetInstance<IInputService>();
+
+            //InitializeAudio(ContentManager);
+
+            Services.Register(typeof(DebugRenderer), null, _myGraphicsScreen.DebugRenderer);
+
+            Services.Register(typeof(IScene), null, _myGraphicsScreen.Scene);
+
+            // We use one collision domain that computes collision info for all game objects.
+            _collisionDomain = new CollisionDomain(new CollisionDetection());
+
+            // Register CollisionDomain in service container.
+            Services.Register(typeof(CollisionDomain), null, _collisionDomain);
+
+            // Add gravity and damping to the physics Simulation.
+            Simulation.ForceEffects.Add(new Gravity());
+
+            Simulation.ForceEffects.Add(new Damping());
+
+            //Flight object
+            //var vehicleObject = new VehicleObject.VehicleObject(Services);
+            //GameObjectService.Objects.Add(vehicleObject);
+
+            //Flight Geametric object
+            vehicleGeametric = new VehicleGeametric(Services);
+            GameObjectService.Objects.Add(vehicleGeametric);
+
+            //var pathGeometric = new LightHouseObject.GeometricPath(Services);
+            //GameObjectService.Objects.Add(pathGeometric);
+
+            //var dudeWalkingSample = new DudeWalkingSample(Services);
+            //GameObjectService.Objects.Add(dudeWalkingSample);
+
+            //Boat Geametric object
+            //_playerObjects = new PlayerObjects.PlayerObjects(Services);
+            //GameObjectService.Objects.Add(_playerObjects);
+
+
+            // Add a camera that is attached to chassis of the vehicle.
+            //var vehicleCameraObject = new VehicleCameraObject.VehicleCameraObject(vehicleObject, Services);
+            //GameObjectService.Objects.Add(vehicleCameraObject);
+            //_myGraphicsScreen.ActiveCameraNode = vehicleCameraObject.CameraNode;
+
+            //            var vehicleCameraObjectTwo = new VehicleCameraObjectTwo(vehicleObject, Services);
+            //            GameObjectService.Objects.Add(vehicleCameraObjectTwo);
+
+
+            // Add a custom game object which controls the camera.
+            //var cameraGameObject = new CameraObject.CameraObject(Services);
+            //GameObjectService.Objects.Add(cameraGameObject);
+            //_myGraphicsScreen.ActiveCameraNode = cameraGameObject.CameraNode;
+
+            ////Third Person Camera 
+            var thirdPersonCameraObject = new ThirdPersonCameraObject.ThirdPersonCameraObject(vehicleGeametric, Services);
+            GameObjectService.Objects.Add(thirdPersonCameraObject);
+            _myGraphicsScreen.ActiveCameraNode = thirdPersonCameraObject.CameraNode;
+
+            //Flame
+            //var jetFlameObject = new JetFlameObject(Services, vehicleGeametric);
+            //GameObjectService.Objects.Add(jetFlameObject);
+            //_myGraphicsScreen.ActiveCameraNode = thirdPersonCameraObject.CameraNode;
+
+            // More standard objects.
+            //GameObjectService.Objects.Add(new GrabObjects.GrabObjects(Services));
+            GameObjectService.Objects.Add(new ObjectCreatorObject.ObjectCreatorObject(Services));
+
+            var dynamicSkyObject = new DynamicSkyObject.DynamicSkyObject(Services, true, false, true);
+            GameObjectService.Objects.Add(dynamicSkyObject);
+
+            //GameObjectService.Objects.Add(new GroundObject(Services));
+
+            // Load three different plant models.
+            // The palm tree consists of a single mesh. It uses the *Vegetation.fx effects.
+            var palmModelNode = ContentManager.Load<ModelNode>("Vegetation/PalmTree/palm_tree");
+            Mesh palmMesh = ((MeshNode)palmModelNode.Children[0]).Mesh;
+
+            // The bird's nest plant consists of 2 LODs. It uses the *Vegetation.fx effects.
+            var plantModelNode = ContentManager.Load<ModelNode>("Vegetation/BirdnestPlant/BirdnestPlant");
+            LodGroupNode plantLodGroupNode = plantModelNode.GetDescendants().OfType<LodGroupNode>().First().Clone();
+
+            // The grass model consists of one mesh. It uses the *Grass.fx effects.
+            var grassModelNode = ContentManager.Load<ModelNode>("Vegetation/Grass/grass");
+            Mesh grassMesh = ((MeshNode)grassModelNode.Children[0]).Mesh;
+
+            // Store all used meshes in a list for use in UpdateMaterialEffectParameters.
+            _meshes.Add(palmMesh);
+            foreach (MeshNode meshNode in plantLodGroupNode.Levels.Select(lodEntry => lodEntry.Node).OfType<MeshNode>())
+                _meshes.Add(meshNode.Mesh);
+            _meshes.Add(grassMesh);
+
+            // We can add individual plant instances to the scene like this:
+            // (However, this is inefficient for large amounts of plants.)
+            _myGraphicsScreen.Scene.Children.Add(new MeshNode(palmMesh)
+            {
+                PoseLocal = new Pose(new Vector3F(-2, 0, 0))
+            });
+            plantLodGroupNode.PoseLocal = Pose.Identity;
+            _myGraphicsScreen.Scene.Children.Add(plantLodGroupNode);
+            _myGraphicsScreen.Scene.Children.Add(new MeshNode(grassMesh)
+            {
+                PoseLocal = new Pose(new Vector3F(2, 0, 0))
+            });
+
+#if WINDOWS
+            int numberOfInstancesPerCell = 100;
+#else
+      int numberOfInstancesPerCell = 10;
+#endif
+
+            //var plantMeshLod0 = ((MeshNode)plantLodGroupNode.Levels[0].Node).Mesh;
+            //_meshes.Add(plantMeshLod0);
+            //GameObjectService.Objects.Add(new VegetationObject(Services, plantMeshLod0, numberOfInstancesPerCell, 20, 10, 10, 2)
+            //{
+            //    Name = "PlantLOD0",
+            //    MaxDistance = plantLodGroupNode.Levels[1].Distance,
+            //});
+
+            //GameObjectService.Objects.Add(new VegetationObject(Services, palmMesh, numberOfInstancesPerCell, 20, 10, 10, 1)
+            //{
+            //    Name = "PalmTrees"
+            //});
+
+
+            //var plantMeshLod1 = ((MeshNode)plantLodGroupNode.Levels[1].Node).Mesh;
+            //_meshes.Add(plantMeshLod1);
+            //GameObjectService.Objects.Add(new VegetationObject(Services, plantMeshLod1, numberOfInstancesPerCell, 20, 10, 10, 2)
+            //{
+            //    Name = "PlantLOD1",
+            //    MinDistance = plantLodGroupNode.Levels[1].Distance,
+            //    MaxDistance = plantLodGroupNode.MaxDistance,
+            //    CastsShadows = false,  // No shadows in the distance.
+            //});
+
+            //////// Grass, lots of it...
+            //GameObjectService.Objects.Add(new VegetationObject(Services, grassMesh, numberOfInstancesPerCell * 10, 10, 20, 20, 3)
+            //{
+            //    Name = "Grass",
+            //    MaxDistance = 30,
+            //    CastsShadows = false,
+            //});
+
+            // Add an island model.
+            GameObjectService.Objects.Add(new StaticObject.StaticObject(Services, "Island/Island", new Vector3F(30),
+                new Pose(new Vector3F(0, 0.75f, 0)), true, true));
+            //AddBody(Simulation, "Island/Island", Pose.Identity, new PlaneShape(Vector3F.UnitY, 0), MotionType.Static);
+
+
+            GameObjectService.Objects.Add(new DynamicObject.DynamicObject(Services, 1));
+            //GameObjectService.Objects.Add(new DynamicObject.DynamicObject(Services, 2));
+            //GameObjectService.Objects.Add(new DynamicObject.DynamicObject(Services, 5));
+            //GameObjectService.Objects.Add(new DynamicObject.DynamicObject(Services, 6));
+            //GameObjectService.Objects.Add(new DynamicObject.DynamicObject(Services, 7));
+            GameObjectService.Objects.Add(new FogObject.FogObject(Services, true));
+            //GameObjectService.Objects.Add(new ProjectileObject.ProjectileObject(Services));
+            // The LavaBalls class controls all lava ball instances.
+            //var lavaBalls = new LavaBallsObject.LavaBallsObject(Services);
+            //GameObjectService.Objects.Add(lavaBalls);
+
+            //LightHouseObject
+            //var lightHouseObject = new LightHouseObject.LightHouseObject(Services);
+            //GameObjectService.Objects.Add(lightHouseObject);
+
+            //PathGeometric
+
+            //          
+            //Rocket
+            //            ParticleSystem particleSystem = new Rockets(Services);
+            //            ParticleSystemService.ParticleSystems.Add(particleSystem);
+            //            _particleSystemNode = new ParticleSystemNode(particleSystem);
+            //            _myGraphicsScreen.Scene.Children.Add(_particleSystemNode);
+
+            // Add a few palm trees.
+            //Random random = new Random(12345);
+            //for (int i = 0; i < 20; i++)
+            //{
+            //    Vector3F position = new Vector3F(random.NextFloat(-7, 4), 0, random.NextFloat(13, 18));
+            //    Matrix33F orientation = Matrix33F.CreateRotationY(random.NextFloat(0, ConstantsF.TwoPi));
+            //    float scale = random.NextFloat(0.8f, 1.2f);
+            //    GameObjectService.Objects.Add(new StaticObject.StaticObject(Services, "PalmTree/palm_tree", scale, new Pose(position, orientation)));
+            //}
+
+
+            // Define the appearance of the water.
+            var waterOcean = new DigitalRune.Graphics.Water
+            {
+                SpecularColor = new Vector3F(20f),
+                SpecularPower = 500,
+                NormalMap0 = null,
+                NormalMap1 = null,
+                RefractionDistortion = 0.1f,
+                ReflectionColor = new Vector3F(0.2f),
+                RefractionColor = new Vector3F(0.6f),
+
+                // Water is scattered in high waves and this makes the wave crests brighter.
+                // ScatterColor defines the intensity of this effect.
+                ScatterColor = new Vector3F(0.05f, 0.1f, 0.1f),
+
+                // Foam is automatically rendered where the water intersects geometry and
+                // where wave are high.
+                FoamMap = ContentManager.Load<Texture2D>("Water/Foam"),
+                FoamMapScale = 5,
+                FoamColor = new Vector3F(1),
+                FoamCrestMin = 0.3f,
+                FoamCrestMax = 0.8f,
+
+                // Approximate underwater caustics are computed in real-time from the waves.
+                CausticsSampleCount = 3,
+                CausticsIntensity = 3,
+                CausticsPower = 100,
+            };
+
+            // If we do not specify a shape in the WaterNode constructor, we get an infinite
+            // water plane.
+            _waterNode = new WaterNode(waterOcean, null)
+            {
+                PoseWorld = new Pose(new Vector3F(0, 0.5f, 0)),
+                SkyboxReflection = _myGraphicsScreen.Scene.GetDescendants().OfType<SkyboxNode>().First(),
+
+                // ExtraHeight must be set to a value greater than the max. wave height. 
+                ExtraHeight = 2,
+            };
+            _myGraphicsScreen.Scene.Children.Add(_waterNode);
+
+            // OceanWaves can be set to displace water surface using a displacement map.
+            // The displacement map is computed by the WaterWaveRenderer (see DeferredGraphicsScreen)
+            // using FFT and a statistical ocean model.
+            _waterNode.Waves = new OceanWaves
+            {
+                TextureSize = 256,
+                HeightScale = 0.004f,
+                Wind = new Vector3F(10, 0, 10),
+                Directionality = 1,
+                Choppiness = 1,
+                TileSize = 20,
+
+                // If we enable CPU queries, we can call OceanWaves.GetDisplacement()
+                // (see Update() method below).
+                EnableCpuQueries = true,
+            };
+
+            // Optional: Use a planar reflection instead of the skybox reflection.
+            // We add a PlanarReflectionNode as a child of the WaterNode.
+            var renderToTexture = new RenderToTexture
+            {
+                Texture =
+                    new RenderTarget2D(GraphicsService.GraphicsDevice, 512, 512, false, SurfaceFormat.HdrBlendable,
+                        DepthFormat.None),
+            };
+            var planarReflectionNode = new PlanarReflectionNode(renderToTexture)
+            {
+                Shape = _waterNode.Shape,
+                NormalLocal = new Vector3F(0, 1, 0),
+                IsEnabled = false,
+            };
+            _waterNode.PlanarReflection = planarReflectionNode;
+            _waterNode.Children = new SceneNodeCollection(1) { planarReflectionNode };
+
+            // To let rigid bodies swim, we add a Buoyancy force effect. This force effect
+            // computes buoyancy of a flat water surface.
+            Simulation.ForceEffects.Add(new Buoyancy
+            {
+                Surface = new Plane(new Vector3F(0, 1, 0), _waterNode.PoseWorld.Position.Y),
+                Density = 1500,
+                AngularDrag = 0.3f,
+                LinearDrag = 3,
+            });
+
+            //ammo
+            ammoObject = new AmmoObject.AmmoObjectFour(Services);
+            GameObjectService.Objects.Add(ammoObject);
+
+            //Missile
+            MissileObject = new MissileObject.MissileObject(Services);
+            GameObjectService.Objects.Add(MissileObject);
+
+            //missileSoundEffect = ContentManager.Load<SoundEffect>("Audio/Missile_Rip_By2_SE");
+
+            //ammoSoundEffect = ContentManager.Load<SoundEffect>("Audio/Gun_AR15_Machine_Gun_2");
+
+            GraphicsService = Services.GetInstance<IGraphicsService>();
+            // Add the GuiGraphicsScreen to the graphics service.
+            _guiGraphicsScreen = new GuiMissileScreen(Services);
+            GraphicsService.Screens.Add(_guiGraphicsScreen);
+
+            // ----- FPS Counter (top right)
+            _fpsPanel = new StackPanel
+            {
+                Margin = new Vector4F(10),
+                HorizontalAlignment = HorizontalAlignment.Right,
+                VerticalAlignment = VerticalAlignment.Bottom,
+            };
+            _guiGraphicsScreen.UIScreen.Children.Add(_fpsPanel);
+            _updateFpsTextBlock = new TextBlock
+            {
+                Font = "DejaVuSans",
+                Foreground = Color.Black,
+                HorizontalAlignment = HorizontalAlignment.Right,
+                Text = "Position",
+            };
+            _fpsPanel.Children.Add(_updateFpsTextBlock);
+
+            Sound.Sound.Initialize(ContentManager);
+
+            // Start gear sound
+            Sound.Sound.StartGearSound();
+
+            // Play game music
+            Sound.Sound.Play(Sound.Sound.Sounds.GameMusic);
+
+            EvadeBehavior =new OpponentObjects.Behavior.EvadeBehavior();
+
+            List<DynamicOpponents> dynamicOpponents;
+            dynamicOpponents = new List<DynamicOpponents>();
+            dynamicOpponents.Add(new DynamicOpponents(Services, 0));
+            nestedListDynamicOpponents.Add(dynamicOpponents);
+            GameObjectService.Objects.Add(nestedListDynamicOpponents[0][0]);
+
+
+            dynamicOpponents = new List<DynamicOpponents>();
+            dynamicOpponents.Add(new DynamicOpponents(Services, 1));
+            nestedListDynamicOpponents.Add(dynamicOpponents);
+            GameObjectService.Objects.Add(nestedListDynamicOpponents[1][0]);
+
+            dynamicOpponents = new List<DynamicOpponents>();
+            dynamicOpponents.Add(new DynamicOpponents(Services, 2));
+            nestedListDynamicOpponents.Add(dynamicOpponents);
+            GameObjectService.Objects.Add(nestedListDynamicOpponents[2][0]);
+
+
+            List<KillerOpponents> KillerOpponents;
+            KillerOpponents = new List<KillerOpponents>();
+            KillerOpponents.Add(new KillerOpponents(Services, 0));
+            nestedListDynamicOpponents.Add(KillerOpponents);
+            GameObjectService.Objects.Add(nestedListDynamicOpponents[0][0]);
+        }
+
+
+        private static RigidBody AddBody(Simulation simulation, string name, Pose pose, Shape shape,
+            MotionType motionType)
+        {
+            var rigidBody = new RigidBody(shape)
+            {
+                Name = name,
+                Pose = pose,
+                MotionType = motionType,
+            };
+
+            simulation.RigidBodies.Add(rigidBody);
+            return rigidBody;
+        }
+
+        public override void Update(GameTime gameTime)
+        {
+            if (!_inputService.EnableMouseCentering)
+                return;
+
+            var deltaTime = (float)gameTime.ElapsedGameTime.TotalSeconds;
+            List<DynamicOpponents> dynamicOpponents;
+            timer -= deltaTime;
+            //if (timer < 0 && _enemyCount <= RandomHelper.Random.NextInteger(1, 3))
+            //{
+            //    _enemyCount++;
+            //    //Timer expired, execute action
+            //    timer = Timer; //Reset Timer
+            //    //opponent object
+
+            //    dynamicOpponents = new List<DynamicOpponents>();
+            //    dynamicOpponents.Add(new DynamicOpponents(Services, _enemyCount));
+            //    nestedListDynamicOpponents.Add(dynamicOpponents);
+
+
+            //    GameObjectService.Objects.Add(nestedListDynamicOpponents[_enemyCount - 1][0]);
+            //}
+
+
+
+            DebugRenderer debugRenderer = _myGraphicsScreen.DebugRenderer;
+            debugRenderer.Clear();
+
+            // Change wave height.
+            if (InputService.IsDown(Keys.H))
+            {
+                bool isShiftDown = (InputService.ModifierKeys & ModifierKeys.Shift) != 0;
+                float sign = isShiftDown ? +1 : -1;
+                float delta = sign * deltaTime * 0.01f;
+                var oceanWaves = ((OceanWaves)_waterNode.Waves);
+                oceanWaves.HeightScale = Math.Max(0, oceanWaves.HeightScale + delta);
+            }
+
+            // Switch water color.
+            if (InputService.IsPressed(Keys.J, true))
+            {
+                if (_waterColorType == 0)
+                {
+                    _waterColorType = 1;
+                    _waterNode.Water.UnderwaterFogDensity = new Vector3F(12, 8, 8) * 0.04f;
+                    _waterNode.Water.WaterColor = new Vector3F(10, 30, 79) * 0.002f;
+                }
+                else
+                {
+                    _waterColorType = 0;
+                    _waterNode.Water.UnderwaterFogDensity = new Vector3F(1, 0.8f, 0.6f);
+                    _waterNode.Water.WaterColor = new Vector3F(0.2f, 0.4f, 0.5f);
+                }
+            }
+
+            // Toggle reflection.
+            if (InputService.IsPressed(Keys.K, true))
+            {
+                _waterNode.PlanarReflection.IsEnabled = !_waterNode.PlanarReflection.IsEnabled;
+            }
+
+            // Switch caustics.
+            if (InputService.IsPressed(Keys.L, true))
+            {
+                if (_causticType == 0)
+                {
+                    _causticType = 1;
+                    _waterNode.Water.CausticsSampleCount = 5;
+                    _waterNode.Water.CausticsIntensity = 10;
+                    _waterNode.Water.CausticsPower = 200;
+                }
+                else if (_causticType == 1)
+                {
+                    // Disable caustics
+                    _causticType = 2;
+                    _waterNode.Water.CausticsIntensity = 0;
+                }
+                else
+                {
+                    _causticType = 0;
+                    _waterNode.Water.CausticsSampleCount = 3;
+                    _waterNode.Water.CausticsIntensity = 3;
+                    _waterNode.Water.CausticsPower = 100;
+                }
+            }
+
+            // Move rigid bodies with the waves:
+            // The Buoyancy force effect is only designed for a flat water surface.
+            // This code applies some impulses to move the bodies. It is not physically 
+            // correct but looks ok.
+            // The code tracks 3 arbitrary positions on each body. Info for the positions
+            // are stored in RigidBody.UserData. The wave displacements of the previous
+            // frame and the current frame are compared an impulse proportional to the 
+            // displacement change is applied.
+            foreach (RigidBody body in Simulation.RigidBodies)
+            {
+                if (body.MotionType != MotionType.Dynamic)
+                    continue;
+
+                // Check how much the body penetrates the water using a simple AABB check.
+                Aabb aabb = body.Aabb;
+                var waterPenetration = (float)Math.Pow(
+                    MathHelper.Clamp((_waterNode.PoseWorld.Position.Y - aabb.Minimum.Y) / aabb.Extent.Y, 0, 1),
+                    3);
+
+                if (waterPenetration < 0)
+                {
+                    body.UserData = null;
+                    continue;
+                }
+
+                // 3 displacement vectors are stored in the UserData.
+                var previousDisplacements = body.UserData as Vector3F[];
+                if (previousDisplacements == null)
+                {
+                    previousDisplacements = new Vector3F[3];
+                    body.UserData = previousDisplacements;
+                }
+
+                for (int i = 0; i < 3; i++)
+                {
+                    // Get an arbitrary position on or near the body.
+                    var position = new Vector3F(
+                        (i < 2) ? aabb.Minimum.X : aabb.Maximum.X,
+                        aabb.Minimum.Y,
+                        (i % 2 == 0) ? aabb.Minimum.Z : aabb.Maximum.Z);
+
+                    // Get wave displacement of this position.
+                    var waves = (OceanWaves)_waterNode.Waves;
+                    Vector3F displacement, normal;
+                    waves.GetDisplacement(position.X, position.Z, out displacement, out normal);
+
+                    // Compute velocity from displacement change.
+                    Vector3F currentVelocity = body.GetVelocityOfWorldPoint(position);
+                    Vector3F desiredVelocity = (displacement - previousDisplacements[i]) / deltaTime;
+
+                    // Apply impulse proportional to the velocity change of the water.
+                    Vector3F velocityDelta = desiredVelocity - currentVelocity;
+                    body.ApplyImpulse(
+                        velocityDelta * body.MassFrame.Mass * waterPenetration * 0.1f,
+                        position);
+
+                    previousDisplacements[i] = displacement;
+                }
+            }
+
+
+
+            //Launch missile
+            var cameraGameObject =
+                (ThirdPersonCameraObject.ThirdPersonCameraObject)GameObjectService.Objects["ThirdPersonCamera"];
+            CameraNode cameraNode = cameraGameObject.CameraNode;
+            cameraPose = cameraNode.PoseWorld;
+            //forward = cameraPose.ToWorldDirection(Vector3F.Forward);
+            //Pose worldPose = new Pose(cameraPose.ToWorldDirection(Vector3F.Forward));
+
+
+            Vector3F cameraPosition = cameraNode.PoseWorld.Position;
+            Vector3F cameraDirection = cameraNode.PoseWorld.ToWorldDirection(Vector3F.Forward);
+
+            // Create a ray for picking.
+            var ray = new RayShape(cameraPosition, cameraDirection, 1000);
+
+            // The ray should stop at the first hit. We only want the first object.
+            ray.StopsAtFirstHit = true;
+
+            // The collision detection requires a CollisionObject.
+            var rayCollisionObject = new CollisionObject(new GeometricObject(ray, Pose.Identity));
+
+            // Assign the collision object to collision group 2. (In SampleGame.cs a
+            // collision filter based on collision groups was set. Objects for hit-testing
+            // are in group 2.)
+            rayCollisionObject.CollisionGroup = 2;
+
+            _spring = null;
+
+            // Get the first object that has contact with the ray.
+            ContactSet contactSet = Simulation.CollisionDomain.GetContacts(rayCollisionObject).FirstOrDefault();
+            if (contactSet != null && contactSet.Count > 0)
+            {
+                // The ray has hit something.
+
+                // The contact set contains all detected contacts between the ray and the rigid body.
+                // Get the first contact in the contact set. (A ray hit usually contains exactly 1 contact.)
+                Contact contact = contactSet[0];
+
+                // The contact set contains the object pair of the collision. One object is the ray.
+                // The other is the object we want to grab.
+                CollisionObject hitCollisionObject = (contactSet.ObjectA == rayCollisionObject)
+                    ? contactSet.ObjectB
+                    : contactSet.ObjectA;
+
+                // Check whether a dynamic rigid body was hit.
+                var hitBody = hitCollisionObject.GeometricObject as RigidBody;
+                if (hitBody != null && hitBody.MotionType == MotionType.Static ||
+                    hitBody != null && hitBody.MotionType == MotionType.Dynamic)
+                {
+                    // Attach the rigid body at the cursor position using a ball-socket joint.
+                    // (Note: We could also use a FixedJoint, if we don't want any rotations.)
+
+                    // The penetration depth tells us the distance from the ray origin to the rigid body.
+                    _springAttachmentDistanceFromObserver = contact.PenetrationDepth;
+
+                    // Get the position where the ray hits the other object.
+                    // (The position is defined in the local space of the object.)
+                    Vector3F hitPositionLocal = (contactSet.ObjectA == rayCollisionObject)
+                        ? contact.PositionBLocal
+                        : contact.PositionALocal;
+
+                    _spring = new BallJoint
+                    {
+                        BodyA = hitBody,
+                        AnchorPositionALocal = hitPositionLocal,
+
+                        // We need to attach the grabbed object to a second body. In this case we just want to
+                        // anchor the object at a specific point in the world. To achieve this we can use the
+                        // special rigid body "World", which is defined in the simulation.
+                        BodyB = Simulation.World,
+                        // AnchorPositionBLocal is set below.
+
+                        // Some constraint adjustments.
+                        ErrorReduction = 0.3f,
+
+                        // We set a softness > 0. This makes the joint "soft" and it will act like
+                        // damped spring. 
+                        Softness = 0.00001f,
+
+                        // We limit the maximal force. This reduces the ability of this joint to violate
+                        // other constraints. 
+                        MaxForce = 1e6f
+                    };
+
+                    // Add the spring to the simulation.
+                    Simulation.Constraints.Add(_spring);
+                }
+            }
+
+            if (_spring != null)
+            {
+                // User has grabbed something.
+
+                // Update the position of the object by updating the anchor position of
+                // the ball-socket joint.
+                var cameraGameObjects =
+                    (ThirdPersonCameraObject.ThirdPersonCameraObject)GameObjectService.Objects["ThirdPersonCamera"];
+                CameraNode cameraNodes = cameraGameObjects.CameraNode;
+                Vector3F cameraPositions = cameraNodes.PoseWorld.Position;
+                Vector3F cameraDirections = cameraNodes.PoseWorld.ToWorldDirection(-Vector3F.UnitZ);
+
+                _spring.AnchorPositionBLocal = cameraPositions + cameraDirections * _springAttachmentDistanceFromObserver;
+
+                // Reduce the angular velocity by a certain factor. (This acts like a damping because we
+                // do not want the object to rotate like crazy.)
+                _spring.BodyA.AngularVelocity *= 0.9f;
+            }
+
+            if (_inputService.IsPressed(MouseButtons.Left, true))
+            {
+                if (_spring != null)
+                {
+                    Pose pose = _spring.BodyA.Pose;
+                    MissileObject.MissileObject missileObjectOne =
+                        GameObjectService.Objects.OfType<MissileObject.MissileObject>().FirstOrDefault();
+                    if (missileObjectOne != null)
+                        missileObjectOne.Spawn(vehicleGeametric.Pose, _spring.BodyA.Pose, cameraPose);
+
+                    Sound.Sound.PlayMissileSound(true);
+                }
+            }
+
+            _timeUntilAmmo -= gameTime.ElapsedGameTime;
+            _timeSinceLastHitSound += deltaTime;
+
+            if (_inputService.IsDoubleClick(MouseButtons.Right))
+            {
+                AmmoObjectFour ammoObject =
+                    GameObjectService.Objects.OfType<AmmoObjectFour>().FirstOrDefault();
+                if (ammoObject != null)
+                {
+                    ammoObject.Spawn(vehicleGeametric.Pose, cameraPose);
+                    Sound.Sound.PlayAmmoSound(true);
+                }
+            }
+
+            // Update collision domain. - This will compute collisions.
+            _collisionDomain.Update(deltaTime);
+            _timeUntilExplosion -= gameTime.ElapsedGameTime;
+
+
+            foreach (List<DynamicOpponents> t in nestedListDynamicOpponents)
+            {
+                // Now we could, for example, ask the collision domain if the ships are colliding.
+                bool shipsAreColliding = _collisionDomain.HaveContact(
+                    t[0].CollisionObject,
+                    vehicleGeametric.CollisionObject);
+
+                bool shipandMissileCollision = _collisionDomain.HaveContact(t[0].CollisionObject,
+                    MissileObject.CollisionObject);
+
+                bool shipandAmmoCollision = _collisionDomain.HaveContact(t[0].CollisionObject,
+                 ammoObject.CollisionObject);
+
+                //Vector3F evadeVector3F = EvadeBehavior.OnUpdateSteeringForce(deltaTime, t[0].Pose.Position, vehicleGeametric.Pose.Position, t[0]._modelPrototype, vehicleGeametric._cameraNode);             
+
+                if (shipandAmmoCollision)
+                {
+                    if (_timeUntilExplosion <= TimeSpan.Zero)
+                    {
+                        _isParticleSystemNode = true;
+                        var _explosion = new Explosion.AmmoExplosion(ContentManager,
+                          new Pose(t[0].CollisionObject.GeometricObject.Pose.Position));
+                        ParticleSystemService.ParticleSystems.Add(_explosion);
+                        _particleSystemNode = new ParticleSystemNode(_explosion);
+                        var scene = Services.GetInstance<IScene>();
+                        scene.Children.Add(_particleSystemNode);
+
+                        _explosion.Explode();
+
+                        Sound.Sound.PlayExplosionSound(true);
+                        _timeUntilExplosion = ExplosionInterval;
+                    }
+                }
+
+                if (shipandMissileCollision)
+                {
+                    if (_timeUntilExplosion <= TimeSpan.Zero)
+                    {
+                        _isParticleSystemNode = true;
+                        var _explosion = new Explosion.Explosion(ContentManager,
+                            new Pose(t[0].CollisionObject.GeometricObject.Pose.Position));
+                        ParticleSystemService.ParticleSystems.Add(_explosion);
+                        _particleSystemNode = new ParticleSystemNode(_explosion);
+                        var scene = Services.GetInstance<IScene>();
+                        scene.Children.Add(_particleSystemNode);
+
+                        _explosion.Explode();
+
+                        Sound.Sound.PlayExplosionSound(true);
+                        _timeUntilExplosion = ExplosionInterval;
+
+                        MissileObject.Dispose();
+                        t[0].Dispose();
+                    }
+                }
+
+                Vector3F forward = Vector3F.Zero;
+
+                if (shipsAreColliding)
+                {
+                    if (_timeUntilExplosion <= TimeSpan.Zero)
+                    {
+                        _isParticleSystemNode = true;
+                        var _explosion = new Explosion.Explosion(ContentManager,
+                            new Pose(t[0].CollisionObject.GeometricObject.Pose.Position));
+                        ParticleSystemService.ParticleSystems.Add(_explosion);
+                        _particleSystemNode = new ParticleSystemNode(_explosion);
+                        var scene = Services.GetInstance<IScene>();
+                        scene.Children.Add(_particleSystemNode);
+
+                        _explosion.Explode();
+
+                        Sound.Sound.PlayExplosionSound(true);
+                        _timeUntilExplosion = ExplosionInterval;
+                        t[0].Dispose();
+                    }
+                    //}              
+                }
+            }
+            UpdateProfiler();
+
+
+            if (_isParticleSystemNode)
+            {
+                _particleSystemNode.Synchronize(GraphicsService);
+            }
+        }
+
+        #region Audio
+
+        private void InitializeAudio(ContentManager contentManager)
+        {
+
+            // The camera defines the position of the audio listener.
+            _listener = new AudioListener();
+
+            // Set a distance scale that is suitable for our demo.
+            SoundEffect.DistanceScale = 10;
+
+            // ----- Load sounds, create instances and emitters.
+            _hitSound = contentManager.Load<SoundEffect>("Audio/GunAR15MachineGunSingle");
+            for (int i = 0; i < _hitSoundInstances.Length; i++)
+            {
+                _hitSoundInstances[i] = _hitSound.CreateInstance();
+                // Change pitch. Our instance sounds better this way.
+                _hitSoundInstances[i].Pitch = -1;
+                _hitEmitters[i] = new AudioEmitter();
+            }
+        }
+
+        public void PlayAudio(float deltaTime)
+        {
+
+            _timeSinceLastHitSound += deltaTime;
+
+            // Update the position of the audio listener.
+            //_listener.Forward = (Vector3)_cameraNode.PoseWorld.ToWorldDirection(Vector3F.Forward);
+
+            //_listener.Position = (Vector3)_cameraNode.PoseWorld.Position;
+
+            if (numberOfRollingContacts > 0 && _timeSinceLastHitSound > 0.1f)
+            {
+                // ----- Play hit sounds.                  
+                missileSoundEffect.Play(1f, 0, 0); //maximum volume is 1f;
+                // Find a not playing hit sound effect instance.
+                //int index = -1;
+                //for (int i = 0; i < _hitSoundInstances.Length; i++)
+                //{
+                //    if (_hitSoundInstances[i].State != SoundState.Playing)
+                //    {
+                //        index = i;
+                //        break;
+                //    }
+                //}
+
+                //if (index != -1)
+                //{
+
+                //    var newPosition = vehicleGeametric.Pose.Position / numberOfRollingContacts;
+
+                //    // Set the sound emitter to the average hit position.
+                //    _hitEmitters[index].Position = (Vector3)newPosition;
+
+                //    // Play 3D sound.
+                //    _hitSoundInstances[index].Volume = 0.9f;
+
+                //    _hitSoundInstances[index].Apply3D(_listener, _hitEmitters[index]);
+
+                //    _hitSoundInstances[index].Play();
+
+                _timeSinceLastHitSound = 0;
+
+                numberOfRollingContacts = 0;
+                //}
+            }
+        }
+
+        #endregion
+
+        private void UpdateProfiler()
+        {
+            _stringBuilder.Clear();
+            if (_spring != null) _stringBuilder.Append("Position: " + _spring.AnchorPositionBLocal);
+            _updateFpsTextBlock.Text = _stringBuilder.ToString();
+        }
+    }
+}

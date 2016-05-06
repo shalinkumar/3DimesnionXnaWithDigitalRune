@@ -1,0 +1,102 @@
+D:\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\Samples.Content.Pipeline.dll
+D:\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\Samples.Content.Pipeline.pdb
+D:\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Animation.dll
+D:\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.dll
+D:\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Game.dll
+D:\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Game.Input.dll
+D:\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Game.UI.dll
+D:\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Geometry.dll
+D:\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Graphics.Content.Pipeline.dll
+D:\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Graphics.dll
+D:\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Mathematics.dll
+D:\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Particles.dll
+D:\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Physics.dll
+D:\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Physics.Specialized.dll
+D:\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.ServiceLocation.dll
+D:\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll
+D:\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.xml
+D:\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Animation.xml
+D:\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Game.xml
+D:\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Game.Input.xml
+D:\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Game.UI.xml
+D:\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Geometry.xml
+D:\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Graphics.xml
+D:\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Graphics.Content.Pipeline.xml
+D:\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Mathematics.xml
+D:\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Particles.xml
+D:\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Physics.xml
+D:\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Physics.Specialized.xml
+D:\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.ServiceLocation.xml
+D:\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\obj\x86\Debug\Samples.Content.Pipeline.dll
+D:\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\obj\x86\Debug\Samples.Content.Pipeline.pdb
+D:\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\obj\x86\Debug\Samples.Content.Pipeline.csprojResolveAssemblyReference.cache
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\Samples.Content.Pipeline.dll
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\Samples.Content.Pipeline.pdb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Animation.dll
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.dll
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Game.dll
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Game.Input.dll
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Game.UI.dll
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Geometry.dll
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Graphics.Content.Pipeline.dll
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Graphics.dll
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Mathematics.dll
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Particles.dll
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Physics.dll
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Physics.Specialized.dll
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.ServiceLocation.dll
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.xml
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Animation.xml
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Game.xml
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Game.Input.xml
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Game.UI.xml
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Geometry.xml
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Graphics.xml
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Graphics.Content.Pipeline.xml
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Mathematics.xml
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Particles.xml
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Physics.xml
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Physics.Specialized.xml
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.ServiceLocation.xml
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\obj\x86\Debug\Samples.Content.Pipeline.csprojResolveAssemblyReference.cache
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\obj\x86\Debug\Samples.Content.Pipeline.dll
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\obj\x86\Debug\Samples.Content.Pipeline.pdb
+C:\Users\shalin\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\Samples.Content.Pipeline.dll
+C:\Users\shalin\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\Samples.Content.Pipeline.pdb
+C:\Users\shalin\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Animation.dll
+C:\Users\shalin\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.dll
+C:\Users\shalin\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Game.dll
+C:\Users\shalin\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Game.Input.dll
+C:\Users\shalin\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Game.UI.dll
+C:\Users\shalin\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Geometry.dll
+C:\Users\shalin\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Graphics.Content.Pipeline.dll
+C:\Users\shalin\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Graphics.dll
+C:\Users\shalin\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Mathematics.dll
+C:\Users\shalin\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Particles.dll
+C:\Users\shalin\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Physics.dll
+C:\Users\shalin\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Physics.Specialized.dll
+C:\Users\shalin\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.ServiceLocation.dll
+C:\Users\shalin\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\shalin\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll
+C:\Users\shalin\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.xml
+C:\Users\shalin\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Animation.xml
+C:\Users\shalin\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Game.xml
+C:\Users\shalin\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Game.Input.xml
+C:\Users\shalin\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Game.UI.xml
+C:\Users\shalin\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Geometry.xml
+C:\Users\shalin\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Graphics.xml
+C:\Users\shalin\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Graphics.Content.Pipeline.xml
+C:\Users\shalin\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Mathematics.xml
+C:\Users\shalin\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Particles.xml
+C:\Users\shalin\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Physics.xml
+C:\Users\shalin\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.Physics.Specialized.xml
+C:\Users\shalin\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\DigitalRune.ServiceLocation.xml
+C:\Users\shalin\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\bin\x86\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\shalin\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\obj\x86\Debug\Samples.Content.Pipeline.dll
+C:\Users\shalin\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\obj\x86\Debug\Samples.Content.Pipeline.pdb
+C:\Users\shalin\Dropbox\Game\JohnStriker\Samples.Content.Pipeline\obj\x86\Debug\Samples.Content.Pipeline.csprojResolveAssemblyReference.cache

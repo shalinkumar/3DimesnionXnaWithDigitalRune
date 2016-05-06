@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JohnStriker", "JohnStriker\JohnStriker\JohnStriker.csproj", "{1FB676A2-0546-4D77-98FC-853C52EC7E91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JohnStrikerContent", "JohnStriker\JohnStrikerContent\JohnStrikerContent.contentproj", "{03202FCC-25F0-47E2-97D3-DFD567D47F94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalRune.Graphics (Windows)", "Content\XNA\Windows\DigitalRune.Graphics (Windows).contentproj", "{864147F3-94B6-48CE-BF38-8B71ACA6BD7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Samples.Content.Pipeline", "Samples.Content.Pipeline\Samples.Content.Pipeline.csproj", "{871EE206-2477-4145-B056-A4110E264700}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FB676A2-0546-4D77-98FC-853C52EC7E91}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{1FB676A2-0546-4D77-98FC-853C52EC7E91}.Debug|x86.ActiveCfg = Debug|x86
+		{1FB676A2-0546-4D77-98FC-853C52EC7E91}.Debug|x86.Build.0 = Debug|x86
+		{1FB676A2-0546-4D77-98FC-853C52EC7E91}.Release|Any CPU.ActiveCfg = Release|x86
+		{1FB676A2-0546-4D77-98FC-853C52EC7E91}.Release|x86.ActiveCfg = Release|x86
+		{1FB676A2-0546-4D77-98FC-853C52EC7E91}.Release|x86.Build.0 = Release|x86
+		{03202FCC-25F0-47E2-97D3-DFD567D47F94}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{03202FCC-25F0-47E2-97D3-DFD567D47F94}.Debug|x86.ActiveCfg = Debug|x86
+		{03202FCC-25F0-47E2-97D3-DFD567D47F94}.Release|Any CPU.ActiveCfg = Release|x86
+		{03202FCC-25F0-47E2-97D3-DFD567D47F94}.Release|x86.ActiveCfg = Release|x86
+		{864147F3-94B6-48CE-BF38-8B71ACA6BD7A}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{864147F3-94B6-48CE-BF38-8B71ACA6BD7A}.Debug|x86.ActiveCfg = Debug|x86
+		{864147F3-94B6-48CE-BF38-8B71ACA6BD7A}.Release|Any CPU.ActiveCfg = Release|x86
+		{864147F3-94B6-48CE-BF38-8B71ACA6BD7A}.Release|x86.ActiveCfg = Release|x86
+		{871EE206-2477-4145-B056-A4110E264700}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{871EE206-2477-4145-B056-A4110E264700}.Debug|Any CPU.Build.0 = Debug|x86
+		{871EE206-2477-4145-B056-A4110E264700}.Debug|x86.ActiveCfg = Debug|x86
+		{871EE206-2477-4145-B056-A4110E264700}.Debug|x86.Build.0 = Debug|x86
+		{871EE206-2477-4145-B056-A4110E264700}.Release|Any CPU.ActiveCfg = Release|x86
+		{871EE206-2477-4145-B056-A4110E264700}.Release|Any CPU.Build.0 = Release|x86
+		{871EE206-2477-4145-B056-A4110E264700}.Release|x86.ActiveCfg = Release|x86
+		{871EE206-2477-4145-B056-A4110E264700}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

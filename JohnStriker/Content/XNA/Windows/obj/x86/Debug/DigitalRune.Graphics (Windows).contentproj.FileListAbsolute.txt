@@ -1,0 +1,2 @@
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\Content\XNA\Windows\obj\x86\Debug\DigitalRune.Graphics (Windows).contentprojResolveAssemblyReference.cache
+C:\Users\shalin\Dropbox\Game\JohnStriker\Content\XNA\Windows\obj\x86\Debug\DigitalRune.Graphics (Windows).contentprojResolveAssemblyReference.cache
