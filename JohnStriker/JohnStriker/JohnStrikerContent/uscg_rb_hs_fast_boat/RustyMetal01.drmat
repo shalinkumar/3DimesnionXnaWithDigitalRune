@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-
-<Material>
-
-  <Pass Name="ShadowMap" Effect="DigitalRune/Materials/ShadowMap" Profile="HiDef" />
-  <Pass Name="GBuffer" Effect="DigitalRune/Materials/GBufferNormal" Profile="HiDef"/>
-   
-</Material>

@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-
-<Model File="LavaBall.fbx" 
-       GenerateTangentFrames="True" 
-       RotationX="-90">
-  <Mesh>
-    <Submesh Material="Lava.drmat" />
-  </Mesh>
-</Model>

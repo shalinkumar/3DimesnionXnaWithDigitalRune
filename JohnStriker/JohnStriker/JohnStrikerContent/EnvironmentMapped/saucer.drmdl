@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Model File="saucer.fbx" Scale="0.01" >  
-  <Mesh Name="p1_saucer_geo">
-    <Submesh Name="saucer_phong" Material="Body.drmat" />
-    <Submesh Name="p1_cockpit_phong1" Material="Cockpit.drmat" />
-    <Submesh Name="engines" Material="Engines.drmat" />
-  </Mesh>
-</Model>
